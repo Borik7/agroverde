@@ -194,7 +194,7 @@ export default function RegionList({ regions }: { regions: Region[] }) {
             </h2>
           )}
 
-          <div className="h-[400px] rounded-lg overflow-hidden border border-gray-300">
+          <div className="h-[400px] z-20 rounded-lg overflow-hidden border border-gray-300">
             <MapContainer
               center={
                 selectedRegion
@@ -205,6 +205,7 @@ export default function RegionList({ regions }: { regions: Region[] }) {
               scrollWheelZoom={false}
               style={{ height: "100%", width: "100%" }}
               key={selectedRegion ? selectedRegion.id : "armenia-map"}
+              className="z-20"
             >
               <TileLayer
                 attribution='&copy; <a href="https://osm.org/copyright">OpenStreetMap</a>'
