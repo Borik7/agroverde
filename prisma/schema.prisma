@@ -31,3 +31,19 @@ model Soil {
 
   @@map("soils")
 }
+
+model SoilAndPlant {
+  id        String   @id @default(uuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("soil_and_plants")
+}
+
+model Regions {
+  id        String   @id @default(uuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("regions")
+}
