@@ -4,132 +4,132 @@
     "area": "Արմավիրի մարզ",
     "latitude": "40.2800",
     "longitude": "44.5560",
-    "temperature": 15,
+    "temperature": 22,
     "rainfall": 350,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Վանանդ",
     "area": "Արմավիրի մարզ",
     "latitude": "40.10318",
     "longitude": "43.82287",
-    "temperature": 14,
+    "temperature": 25,
     "rainfall": 380,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Նորապատ",
     "area": "Արմավիրի մարզ",
     "latitude": "40.14174",
     "longitude": "44.03035",
-    "temperature": 15,
+    "temperature": 22,
     "rainfall": 360,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Սարդարապատ",
     "area": "Արմավիրի մարզ",
     "latitude": "40.1800",
     "longitude": "44.0500",
-    "temperature": 15,
+    "temperature": 24,
     "rainfall": 360,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Նալբանդյան",
     "area": "Արմավիրի մարզ",
     "latitude": "40.1690",
     "longitude": "44.1500",
-    "temperature": 15,
+    "temperature": 26,
     "rainfall": 360,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Ջանֆրիդա",
     "area": "Արմավիրի մարզ",
     "latitude": "40.1200",
     "longitude": "44.0800",
-    "temperature": 15,
+    "temperature": 25,
     "rainfall": 360,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Արագած",
     "area": "Արմավիրի մարզ",
     "latitude": "40.2500",
     "longitude": "44.4000",
-    "temperature": 14,
+    "temperature": 23,
     "rainfall": 400,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Գեղակերտ",
     "area": "Արմավիրի մարզ",
     "latitude": "40.1500",
     "longitude": "44.1200",
-    "temperature": 15,
+    "temperature": 23,
     "rainfall": 360,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Հայթաղ",
     "area": "Արմավիրի մարզ",
     "latitude": "40.2000",
     "longitude": "44.2000",
-    "temperature": 15,
+    "temperature": 23,
     "rainfall": 360,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Առատաշեն",
     "area": "Արմավիրի մարզ",
     "latitude": "40.2300",
     "longitude": "44.1800",
-    "temperature": 15,
+    "temperature": 26,
     "rainfall": 360,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Գրիբոյեդով",
     "area": "Արմավիրի մարզ",
     "latitude": "40.1400",
     "longitude": "44.1100",
-    "temperature": 15,
+    "temperature": 25,
     "rainfall": 360,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Մուսալեռ",
     "area": "Արմավիրի մարզ",
     "latitude": "40.1250",
     "longitude": "44.0950",
-    "temperature": 15,
+    "temperature": 25,
     "rainfall": 360,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Խորոնք",
@@ -140,40 +140,40 @@
     "rainfall": 360,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Փարաքար",
     "area": "Արմավիրի մարզ",
     "latitude": "40.1450",
     "longitude": "44.1000",
-    "temperature": 15,
+    "temperature": 26,
     "rainfall": 360,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Մերձավան",
     "area": "Արմավիրի մարզ",
     "latitude": "40.1500",
     "longitude": "44.1400",
-    "temperature": 15,
+    "temperature": 25,
     "rainfall": 360,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Բաղրամյան",
     "area": "Արմավիրի մարզ",
     "latitude": "40.1550",
     "longitude": "44.1600",
-    "temperature": 15,
+    "temperature": 23,
     "rainfall": 360,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
 
   {
@@ -181,121 +181,121 @@
     "area": "Արարատի մարզ ",
     "latitude": "41.0469",
     "longitude": "44.5817",
-    "temperature": 9,
+    "temperature": 24,
     "rainfall": 700,
     "humidity": "75%",
     "season": "Սառնաշունչ ձմեռ, զով ամառ",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Գետափնյա",
     "area": "Արարատի մարզ ",
     "latitude": "41.0150",
     "longitude": "44.5360",
-    "temperature": 10,
+    "temperature": 26,
     "rainfall": 650,
     "humidity": "73%",
     "season": "Սառնաշունչ ձմեռ, զով ամառ",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Այնթափ",
     "area": "Արարատի մարզ ",
     "latitude": "39.5528",
     "longitude": "45.2625",
-    "temperature": 12,
+    "temperature": 25,
     "rainfall": 400,
     "humidity": "62%",
     "season": "Սառնաշունչ ձմեռ, շոգ ամառ",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Նոր Խարբերդ",
     "area": "Արարատի մարզ",
     "latitude": "39.8567",
     "longitude": "44.5289",
-    "temperature": 13,
+    "temperature": 25,
     "rainfall": 360,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ է, ամառը շոգ",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Նոր Կյուրին",
     "area": "Արարատի մարզ ",
     "latitude": "39.5978",
     "longitude": "44.9983",
-    "temperature": 11,
+    "temperature": 23,
     "rainfall": 450,
     "humidity": "64%",
     "season": "Ձմեռը ցուրտ, ամառը տաք",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Աբովյան",
     "area": "Արարատի մարզ",
     "latitude": "40.2737",
     "longitude": "44.6335",
-    "temperature": 12,
+    "temperature": 24,
     "rainfall": 293,
     "humidity": "68%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Մարմարաշեն",
     "area": "Արարատի մարզ",
     "latitude": "40.2883",
     "longitude": "45.4794",
-    "temperature": 8,
+    "temperature": 24,
     "rainfall": 600,
     "humidity": "77%",
     "season": "Երկար ու ցուրտ ձմեռ, կարճ ամառ",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Գետազատ",
     "area": "Արարատի մարզ",
     "latitude": "40.1106",
     "longitude": "44.1206",
-    "temperature": 13,
+    "temperature": 24,
     "rainfall": 320,
     "humidity": "59%",
     "season": "Ձմեռը մեղմ է, ամառը շոգ ու չոր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Արևշատ",
     "area": "Արարատի մարզ",
     "latitude": "39.5722",
     "longitude": "45.0000",
-    "temperature": 11,
+    "temperature": 22,
     "rainfall": 420,
     "humidity": "65%",
     "season": "Ձմեռը ցուրտ, ամառը տաք ու չոր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Դեղձուտ",
     "area": "Արարատի մարզ",
     "latitude": "40.2142",
     "longitude": "44.2000",
-    "temperature": 9,
+    "temperature": 24,
     "rainfall": 500,
     "humidity": "70%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Մխչյան",
     "area": "Արարատի մարզ",
     "latitude": "40.8972",
     "longitude": "45.2278",
-    "temperature": 8,
+    "temperature": 25,
     "rainfall": 800,
     "humidity": "80%",
     "season": "Ձմեռը մեղմ, ամառը խոնավ",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Բյուրավան",
@@ -306,128 +306,128 @@
     "rainfall": 400,
     "humidity": "66%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Կանաչուտ",
     "area": "Արարատի մարզ",
     "latitude": "39.9694",
     "longitude": "44.4325",
-    "temperature": 14,
+    "temperature": 26,
     "rainfall": 350,
     "humidity": "61%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Վարդաշեն",
     "area": "Արարատի մարզ",
     "latitude": "39.6694",
     "longitude": "44.8658",
-    "temperature": 10,
+    "temperature": 24,
     "rainfall": 460,
     "humidity": "66%",
     "season": "Ձմեռը ցուրտ, ամառը տաք",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Բաղրամյան",
     "area": "Արարատի մարզ",
     "latitude": "39.9972",
     "longitude": "44.7689",
-    "temperature": 13,
+    "temperature": 23,
     "rainfall": 380,
     "humidity": "62%",
     "season": "Ձմեռը մեղմ, ամառը շոգ ու չոր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Քաղցրաշեն",
     "area": "Արարատի մարզ",
     "latitude": "39.9717",
     "longitude": "44.6694",
-    "temperature": 13,
+    "temperature": 20,
     "rainfall": 390,
     "humidity": "63%",
     "season": "Ձմեռը մեղմ, ամառը շոգ ու չոր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Վեդի",
     "area": "Արարատի մարզ",
     "latitude": "39.9833",
     "longitude": "44.8333",
-    "temperature": 19,
+    "temperature": 25,
     "rainfall": 372,
     "humidity": "58%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Գոռավան",
     "area": "Արարատի մարզ",
     "latitude": "40.0494",
     "longitude": "44.7497",
-    "temperature": 18,
+    "temperature": 27,
     "rainfall": 350,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Դաշտաքար",
     "area": "Արարատի մարզ",
     "latitude": "39.9411",
     "longitude": "44.6267",
-    "temperature": 14,
+    "temperature": 23,
     "rainfall": 370,
     "humidity": "62%",
     "season": "Ձմեռը մեղմ, ամառը տաք",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Այգեզարդ",
     "area": "Արարատի մարզ",
     "latitude": "39.9797",
     "longitude": "44.0647",
-    "temperature": 14,
+    "temperature": 26,
     "rainfall": 330,
     "humidity": "61%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Այգեպատ",
     "area": "Արարատի մարզ",
     "latitude": "40.0369",
     "longitude": "44.2575",
-    "temperature": 14,
+    "temperature": 23,
     "rainfall": 340,
     "humidity": "62%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Ոսկետափ",
     "area": "Արարատի մարզ",
     "latitude": "40.0894",
     "longitude": "44.2961",
-    "temperature": 13,
+    "temperature": 26,
     "rainfall": 310,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ ու չոր",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Արարատ",
     "area": "Արարատի մարզ",
     "latitude": "39.9500",
     "longitude": "44.9514",
-    "temperature": 14,
+    "temperature": 26,
     "rainfall": 360,
     "humidity": "61%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
   {
     "name": "Արարատ գյուղ",
@@ -438,7 +438,7 @@
     "rainfall": 360,
     "humidity": "61%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Կուլտուր ոռոգելի"
+    "soilType": "Կուլտուր ոռոգելի հողեր"
   },
 
   {
@@ -446,242 +446,242 @@
     "area": "Արարատի մարզ",
     "latitude": "39.9633",
     "longitude": "44.8322",
-    "temperature": 13,
+    "temperature": 23,
     "rainfall": 370,
     "humidity": "61%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Հայանիստ",
     "area": "Արարատի մարզ",
     "latitude": "40.0030",
     "longitude": "44.7735",
-    "temperature": 14,
+    "temperature": 23,
     "rainfall": 360,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Դարակերտ",
     "area": "Արարատի մարզ",
     "latitude": "39.9711",
     "longitude": "44.7033",
-    "temperature": 13,
+    "temperature": 24,
     "rainfall": 380,
     "humidity": "62%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Սիփանիկ",
     "area": "Արարատի մարզ",
     "latitude": "39.9444",
     "longitude": "44.6833",
-    "temperature": 13,
+    "temperature": 22,
     "rainfall": 370,
     "humidity": "61%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Նորաբաց",
     "area": "Արարատի մարզ",
     "latitude": "39.9783",
     "longitude": "44.7483",
-    "temperature": 14,
+    "temperature": 23,
     "rainfall": 360,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Զորակ",
     "area": "Արարատի մարզ",
     "latitude": "40.0117",
     "longitude": "44.7089",
-    "temperature": 14,
+    "temperature": 21,
     "rainfall": 355,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Սիս",
     "area": "Արարատի մարզ",
     "latitude": "39.9333",
     "longitude": "44.7000",
-    "temperature": 13,
+    "temperature": 25,
     "rainfall": 370,
     "humidity": "61%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Արևաքույր",
     "area": "Արարատի մարզ",
     "latitude": "40.0200",
     "longitude": "44.7500",
-    "temperature": 14,
+    "temperature": 26,
     "rainfall": 360,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Մրգավետ",
     "area": "Արարատի մարզ",
     "latitude": "40.0239",
     "longitude": "44.7222",
-    "temperature": 14,
+    "temperature": 23,
     "rainfall": 360,
     "humidity": "61%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Հովտաշեն",
     "area": "Արարատի մարզ",
     "latitude": "40.0300",
     "longitude": "44.7300",
-    "temperature": 13,
+    "temperature": 21,
     "rainfall": 355,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Արաքսավան",
     "area": "Արարատի մարզ",
     "latitude": "39.9900",
     "longitude": "44.7000",
-    "temperature": 13,
+    "temperature": 21,
     "rainfall": 370,
     "humidity": "61%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Մասիս գյուղ",
     "area": "Արարատի մարզ",
     "latitude": "39.9767",
     "longitude": "44.7578",
-    "temperature": 14,
+    "temperature": 23,
     "rainfall": 360,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Բուրաստան",
     "area": "Արարատի մարզ",
     "latitude": "39.9900",
     "longitude": "44.8000",
-    "temperature": 14,
+    "temperature": 22,
     "rainfall": 360,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Ազատավան",
     "area": "Արարատի մարզ",
     "latitude": "39.9850",
     "longitude": "44.7650",
-    "temperature": 14,
+    "temperature": 21,
     "rainfall": 360,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Բերքանուշ",
     "area": "Արարատի մարզ",
     "latitude": "40.0000",
     "longitude": "44.7500",
-    "temperature": 14,
+    "temperature": 23,
     "rainfall": 355,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Շահումյան",
     "area": "Արարատի մարզ",
     "latitude": "40.0100",
     "longitude": "44.7400",
-    "temperature": 13,
+    "temperature": 20,
     "rainfall": 360,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Տափերական",
     "area": "Արարատի մարզ",
     "latitude": "40.0050",
     "longitude": "44.7300",
-    "temperature": 14,
+    "temperature": 21,
     "rainfall": 360,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Փոքր Վեդի",
     "area": "Արարատի մարզ",
     "latitude": "39.9900",
     "longitude": "44.8400",
-    "temperature": 14,
+    "temperature": 22,
     "rainfall": 370,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Լուսառատ",
     "area": "Արարատի մարզ",
     "latitude": "39.9800",
     "longitude": "44.7500",
-    "temperature": 13,
+    "temperature": 20,
     "rainfall": 360,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Եղեգնավան",
     "area": "Արարատի մարզ",
     "latitude": "40.0500",
     "longitude": "44.7700",
-    "temperature": 14,
+    "temperature": 22,
     "rainfall": 360,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Այգավան",
     "area": "Արարատի մարզ",
     "latitude": "39.9900",
     "longitude": "44.7300",
-    "temperature": 14,
+    "temperature": 23,
     "rainfall": 360,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
   {
     "name": "Նոր Կյանք",
     "area": "Արարատի մարզ",
     "latitude": "39.9750",
     "longitude": "44.7550",
-    "temperature": 14,
+    "temperature": 22,
     "rainfall": 360,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
 
   {
@@ -689,11 +689,11 @@
     "area": "Արմավիրի մարզ",
     "latitude": "40.0833",
     "longitude": "44.2500",
-    "temperature": 14,
+    "temperature": 21,
     "rainfall": 350,
     "humidity": "60%",
     "season": "Ձմեռը մեղմ, ամառը շոգ",
-    "soilType": "Աղուտ և ալկալի"
+    "soilType": "Աղուտ և ալկալի հողեր"
   },
 
   {
@@ -701,7 +701,7 @@
     "area": "Աշտարակի մարզ",
     "latitude": "40.2800",
     "longitude": "44.2740",
-    "temperature": 11,
+    "temperature": 24,
     "rainfall": 450,
     "humidity": "65%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -712,7 +712,7 @@
     "area": "Աշտարակի մարզ",
     "latitude": "40.2590",
     "longitude": "44.2780",
-    "temperature": 11,
+    "temperature": 20,
     "rainfall": 440,
     "humidity": "65%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -723,7 +723,7 @@
     "area": "Աշտարակի մարզ",
     "latitude": "40.2780",
     "longitude": "44.2910",
-    "temperature": 11,
+    "temperature": 22,
     "rainfall": 445,
     "humidity": "65%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -734,7 +734,7 @@
     "area": "Աշտարակի մարզ",
     "latitude": "40.2630",
     "longitude": "44.2800",
-    "temperature": 11,
+    "temperature": 21,
     "rainfall": 440,
     "humidity": "65%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -745,7 +745,7 @@
     "area": "Աշտարակի մարզ",
     "latitude": "40.2970",
     "longitude": "44.3000",
-    "temperature": 11,
+    "temperature": 22,
     "rainfall": 460,
     "humidity": "65%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -756,7 +756,7 @@
     "area": "Աշտարակի մարզ",
     "latitude": "40.3100",
     "longitude": "44.3100",
-    "temperature": 11,
+    "temperature": 21,
     "rainfall": 460,
     "humidity": "65%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -767,7 +767,7 @@
     "area": "Աշտարակի մարզ",
     "latitude": "40.3200",
     "longitude": "44.3200",
-    "temperature": 10,
+    "temperature": 20,
     "rainfall": 470,
     "humidity": "66%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -778,7 +778,7 @@
     "area": "Աշտարակի մարզ",
     "latitude": "40.3300",
     "longitude": "44.3300",
-    "temperature": 10,
+    "temperature": 21,
     "rainfall": 480,
     "humidity": "66%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -789,7 +789,7 @@
     "area": "Աշտարակի մարզ",
     "latitude": "40.3400",
     "longitude": "44.3400",
-    "temperature": 10,
+    "temperature": 20,
     "rainfall": 475,
     "humidity": "66%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -801,7 +801,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.4350",
     "longitude": "44.7170",
-    "temperature": 10,
+    "temperature": 17,
     "rainfall": 520,
     "humidity": "70%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -812,7 +812,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.4365",
     "longitude": "44.7430",
-    "temperature": 10,
+    "temperature": 19,
     "rainfall": 515,
     "humidity": "70%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -823,7 +823,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.4280",
     "longitude": "44.7200",
-    "temperature": 11,
+    "temperature": 16,
     "rainfall": 510,
     "humidity": "69%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -834,7 +834,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.4200",
     "longitude": "44.7100",
-    "temperature": 10,
+    "temperature": 17,
     "rainfall": 525,
     "humidity": "70%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -845,7 +845,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.4500",
     "longitude": "44.7300",
-    "temperature": 11,
+    "temperature": 20,
     "rainfall": 530,
     "humidity": "71%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -856,7 +856,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.3500",
     "longitude": "44.6200",
-    "temperature": 10,
+    "temperature": 19,
     "rainfall": 500,
     "humidity": "69%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -867,7 +867,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.4100",
     "longitude": "44.7000",
-    "temperature": 10,
+    "temperature": 16,
     "rainfall": 505,
     "humidity": "69%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -878,7 +878,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.4000",
     "longitude": "44.7100",
-    "temperature": 10,
+    "temperature": 18,
     "rainfall": 510,
     "humidity": "70%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -889,7 +889,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.3950",
     "longitude": "44.7050",
-    "temperature": 10,
+    "temperature": 17,
     "rainfall": 505,
     "humidity": "69%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -900,7 +900,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.3900",
     "longitude": "44.7000",
-    "temperature": 10,
+    "temperature": 18,
     "rainfall": 500,
     "humidity": "68%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -911,7 +911,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.3800",
     "longitude": "44.6900",
-    "temperature": 10,
+    "temperature": 22,
     "rainfall": 495,
     "humidity": "68%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -922,7 +922,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.3700",
     "longitude": "44.6800",
-    "temperature": 10,
+    "temperature": 21,
     "rainfall": 490,
     "humidity": "68%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -933,7 +933,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.3600",
     "longitude": "44.6700",
-    "temperature": 10,
+    "temperature": 20,
     "rainfall": 485,
     "humidity": "68%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -944,7 +944,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.3500",
     "longitude": "44.6600",
-    "temperature": 10,
+    "temperature": 22,
     "rainfall": 480,
     "humidity": "67%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -955,7 +955,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.3400",
     "longitude": "44.6500",
-    "temperature": 10,
+    "temperature": 22,
     "rainfall": 475,
     "humidity": "67%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -966,7 +966,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.3300",
     "longitude": "44.6400",
-    "temperature": 10,
+    "temperature": 23,
     "rainfall": 470,
     "humidity": "67%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -977,7 +977,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.3200",
     "longitude": "44.6300",
-    "temperature": 11,
+    "temperature": 23,
     "rainfall": 465,
     "humidity": "67%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -988,7 +988,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.3100",
     "longitude": "44.6200",
-    "temperature": 11,
+    "temperature": 21,
     "rainfall": 460,
     "humidity": "66%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -999,7 +999,7 @@
     "area": "Կոտայքի մարզ",
     "latitude": "40.3000",
     "longitude": "44.6100",
-    "temperature": 11,
+    "temperature": 20,
     "rainfall": 455,
     "humidity": "66%",
     "season": "Ձմեռը ցուրտ, ամառը զով",
@@ -2099,7 +2099,7 @@
     "rainfall": 650,
     "humidity": "70%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Շահումյան",
@@ -2110,7 +2110,7 @@
     "rainfall": 670,
     "humidity": "71%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Դարպաս",
@@ -2121,7 +2121,7 @@
     "rainfall": 660,
     "humidity": "70%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Կուրթան",
@@ -2132,7 +2132,7 @@
     "rainfall": 655,
     "humidity": "70%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Դսեղ",
@@ -2143,7 +2143,7 @@
     "rainfall": 650,
     "humidity": "70%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Եղեգնուտ",
@@ -2154,7 +2154,7 @@
     "rainfall": 645,
     "humidity": "70%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Քարինջ",
@@ -2165,7 +2165,7 @@
     "rainfall": 640,
     "humidity": "69%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Ահնիձոր",
@@ -2176,7 +2176,7 @@
     "rainfall": 635,
     "humidity": "69%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Թումանյան",
@@ -2187,7 +2187,7 @@
     "rainfall": 630,
     "humidity": "69%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Հաղպատ",
@@ -2198,7 +2198,7 @@
     "rainfall": 625,
     "humidity": "69%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Օձուն",
@@ -2209,7 +2209,7 @@
     "rainfall": 620,
     "humidity": "68%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Ալավերդի",
@@ -2220,7 +2220,7 @@
     "rainfall": 615,
     "humidity": "68%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Ախթալա",
@@ -2231,7 +2231,7 @@
     "rainfall": 610,
     "humidity": "68%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Շամլուղ",
@@ -2242,7 +2242,7 @@
     "rainfall": 605,
     "humidity": "68%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Դեքեդավան",
@@ -2253,7 +2253,7 @@
     "rainfall": 670,
     "humidity": "74%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Բագրատաշեն",
@@ -2264,7 +2264,7 @@
     "rainfall": 675,
     "humidity": "74%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Պտղավան",
@@ -2275,7 +2275,7 @@
     "rainfall": 680,
     "humidity": "75%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Հաղթանակ",
@@ -2286,7 +2286,7 @@
     "rainfall": 685,
     "humidity": "75%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Այրում",
@@ -2297,7 +2297,7 @@
     "rainfall": 690,
     "humidity": "75%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Արճիս",
@@ -2308,135 +2308,135 @@
     "rainfall": 695,
     "humidity": "75%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Ջուևան",
     "area": "Տավուշի մարզ",
     "latitude": "41.0000",
     "longitude": "45.3300",
-    "temperature": 6,
+    "temperature": 17,
     "rainfall": 700,
     "humidity": "75%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Կիրանց",
     "area": "Տավուշի մարզ",
     "latitude": "41.0100",
     "longitude": "45.3400",
-    "temperature": 6,
+    "temperature": 18,
     "rainfall": 705,
     "humidity": "75%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Սևքար",
     "area": "Տավուշի մարզ",
     "latitude": "41.0200",
     "longitude": "45.3500",
-    "temperature": 6,
+    "temperature": 19,
     "rainfall": 710,
     "humidity": "76%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Այգեհովիտ",
     "area": "Տավուշի մարզ",
     "latitude": "41.0300",
     "longitude": "45.3600",
-    "temperature": 6,
+    "temperature": 21,
     "rainfall": 715,
     "humidity": "76%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Իջևան",
     "area": "Տավուշի մարզ",
     "latitude": "41.0400",
     "longitude": "45.3700",
-    "temperature": 6,
+    "temperature": 16,
     "rainfall": 720,
     "humidity": "76%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Գանձաքար",
     "area": "Տավուշի մարզ",
     "latitude": "41.0500",
     "longitude": "45.3800",
-    "temperature": 6,
+    "temperature": 14,
     "rainfall": 725,
     "humidity": "76%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Արծվաբերդ",
     "area": "Տավուշի մարզ",
     "latitude": "41.0600",
     "longitude": "45.3900",
-    "temperature": 6,
+    "temperature": 14,
     "rainfall": 730,
     "humidity": "77%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Վերին Կարմիրաղբյուր",
     "area": "Տավուշի մարզ",
     "latitude": "41.0700",
     "longitude": "45.4000",
-    "temperature": 6,
+    "temperature": 20,
     "rainfall": 735,
     "humidity": "77%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Լուսաձոր",
     "area": "Տավուշի մարզ",
     "latitude": "41.0800",
     "longitude": "45.4100",
-    "temperature": 6,
+    "temperature": 18,
     "rainfall": 740,
     "humidity": "77%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Դիտավան",
     "area": "Տավուշի մարզ",
     "latitude": "41.0900",
     "longitude": "45.4200",
-    "temperature": 6,
+    "temperature": 19,
     "rainfall": 745,
     "humidity": "77%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Ոսկեվան",
     "area": "Տավուշի մարզ",
     "latitude": "41.1000",
     "longitude": "45.4300",
-    "temperature": 6,
+    "temperature": 18,
     "rainfall": 750,
     "humidity": "78%",
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
-    "soilType": "Լեռնային անտառային գորշ և դարչնագույն հողեր"
+    "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր"
   },
   {
     "name": "Հայկավան",
     "area": "Արմավիրի մարզ",
     "latitude": "40.1450",
     "longitude": "44.2670",
-    "temperature": 12,
+    "temperature": 19,
     "rainfall": 420,
     "humidity": "65%",
     "season": "Ձմեռը մեղմ, ամառը տաք",
@@ -2447,7 +2447,7 @@
     "area": "Արմավիրի մարզ",
     "latitude": "40.1465",
     "longitude": "44.2680",
-    "temperature": 12,
+    "temperature": 21,
     "rainfall": 420,
     "humidity": "65%",
     "season": "Ձմեռը մեղմ, ամառը տաք",
@@ -2458,7 +2458,7 @@
     "area": "Արմավիրի մարզ",
     "latitude": "40.1490",
     "longitude": "44.2700",
-    "temperature": 12,
+    "temperature": 28,
     "rainfall": 425,
     "humidity": "65%",
     "season": "Ձմեռը մեղմ, ամառը տաք",
@@ -2469,7 +2469,7 @@
     "area": "Արմավիրի մարզ",
     "latitude": "40.1500",
     "longitude": "44.2750",
-    "temperature": 12,
+    "temperature": 26,
     "rainfall": 425,
     "humidity": "65%",
     "season": "Ձմեռը մեղմ, ամառը տաք",
@@ -2480,7 +2480,7 @@
     "area": "Արմավիրի մարզ",
     "latitude": "40.1520",
     "longitude": "44.2780",
-    "temperature": 12,
+    "temperature": 29,
     "rainfall": 425,
     "humidity": "65%",
     "season": "Ձմեռը մեղմ, ամառը տաք",
@@ -2491,7 +2491,7 @@
     "area": "Արմավիրի մարզ",
     "latitude": "40.1550",
     "longitude": "44.2800",
-    "temperature": 12,
+    "temperature": 26,
     "rainfall": 430,
     "humidity": "66%",
     "season": "Ձմեռը մեղմ, ամառը տաք",
@@ -2502,7 +2502,7 @@
     "area": "Արմավիրի մարզ",
     "latitude": "40.1570",
     "longitude": "44.2820",
-    "temperature": 12,
+    "temperature": 27,
     "rainfall": 430,
     "humidity": "66%",
     "season": "Ձմեռը մեղմ, ամառը տաք",
@@ -2514,7 +2514,7 @@
     "area": "Գեղարքունիքի մարզ",
     "latitude": "39.8500",
     "longitude": "45.7000",
-    "temperature": 6,
+    "temperature": 20,
     "rainfall": 650,
     "humidity": "72%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
@@ -2525,7 +2525,7 @@
     "area": "Գեղարքունիքի մարզ",
     "latitude": "39.8300",
     "longitude": "45.7200",
-    "temperature": 6,
+    "temperature": 19,
     "rainfall": 655,
     "humidity": "72%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
@@ -2536,7 +2536,7 @@
     "area": "Գեղարքունիքի մարզ",
     "latitude": "39.8100",
     "longitude": "45.7400",
-    "temperature": 6,
+    "temperature": 15,
     "rainfall": 660,
     "humidity": "72%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
@@ -2547,7 +2547,7 @@
     "area": "Գեղարքունիքի մարզ",
     "latitude": "39.7900",
     "longitude": "45.7600",
-    "temperature": 6,
+    "temperature": 18,
     "rainfall": 665,
     "humidity": "73%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
@@ -2558,7 +2558,7 @@
     "area": "Գեղարքունիքի մարզ",
     "latitude": "39.7700",
     "longitude": "45.7800",
-    "temperature": 6,
+    "temperature": 20,
     "rainfall": 670,
     "humidity": "73%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
@@ -2569,7 +2569,7 @@
     "area": "Գեղարքունիքի մարզ",
     "latitude": "39.7500",
     "longitude": "45.8000",
-    "temperature": 6,
+    "temperature": 15,
     "rainfall": 675,
     "humidity": "73%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
@@ -2580,7 +2580,7 @@
     "area": "Գեղարքունիքի մարզ",
     "latitude": "39.7300",
     "longitude": "45.8200",
-    "temperature": 6,
+    "temperature": 18,
     "rainfall": 680,
     "humidity": "73%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
@@ -2591,7 +2591,7 @@
     "area": "Գեղարքունիքի մարզ",
     "latitude": "39.7100",
     "longitude": "45.8400",
-    "temperature": 6,
+    "temperature": 19,
     "rainfall": 685,
     "humidity": "74%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
@@ -2602,7 +2602,7 @@
     "area": "Գեղարքունիքի մարզ",
     "latitude": "39.6900",
     "longitude": "45.8600",
-    "temperature": 6,
+    "temperature": 20,
     "rainfall": 690,
     "humidity": "74%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
@@ -2613,7 +2613,7 @@
     "area": "Գեղարքունիքի մարզ",
     "latitude": "39.6700",
     "longitude": "45.8800",
-    "temperature": 6,
+    "temperature": 19,
     "rainfall": 695,
     "humidity": "74%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
@@ -2624,7 +2624,7 @@
     "area": "Շիրակի մարզ",
     "latitude": "40.8000",
     "longitude": "43.8500",
-    "temperature": 5,
+    "temperature": 19,
     "rainfall": 600,
     "humidity": "68%",
     "season": "Ձմեռը սառը, ամառը մեղմ",

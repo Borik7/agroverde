@@ -4,6 +4,7 @@ import { Inter } from "next/font/google";
 import Navigation from "@/components/Navigation";
 import { Toaster } from "@/components/ui/sonner";
 import "leaflet/dist/leaflet.css";
+import Footer from "@/components/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -26,6 +27,7 @@ export default function RootLayout({
         <Navigation />
         <main className="min-h-screen">{children}</main>
         <Toaster />
+        <Footer></Footer>
       </body>
     </html>
   );
