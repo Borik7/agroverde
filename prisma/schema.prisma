@@ -1,6 +1,5 @@
 generator client {
   provider = "prisma-client-js"
-  // output   = "../app/generated/prisma"
 }
 
 datasource db {
@@ -9,31 +8,61 @@ datasource db {
 }
 
 model Plant {
-  id        String   @id @default(uuid())
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  id                       String         @id @default(uuid())
+  name                     String
+  plantFamily              PlantFamily    @relation(fields: [plantFamilyId], references: [id], onDelete: Cascade)
+  plantFamilyId            String
+  minTemperature           Int            @map("min_temperature")
+  maxTemperature           Int            @map("max_temperature")
+  minPrecipitation         Int            @map("min_precipitation")
+  maxPrecipitation         Int            @map("max_precipitation")
+  imagePath                String         @map("image_path")
+  description              String
+  winterProtection         String         @map("winter_protection")
+  airHumidity              String         @map("air_humidity")
+  sunRequirement           String         @map("sun_requirement")
+  depthOfGroundwater       String         @map("depth_of_groundwater")
+  seaLevel                 String         @map("sea_level")
+  growingSeason            String         @map("growing_season")
+  fertilityBegins          String         @map("fertility_begins")
+  averageYield             String         @map("average_yield")
+  frostResistance          String         @map("frost_resistance")
+  susceptibilityToDiseases String         @map("susceptibility_to_diseases")
+  soilAndPlant             soilAndPlant[]
+  createdAt                DateTime       @default(now())
+  updatedAt                DateTime       @updatedAt
 
   @@map("plants")
 }
 
 model PlantFamily {
   id        String   @id @default(uuid())
+  name      String   @unique
+  category  String
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
+  Plant     Plant[]
 
   @@map("plants_family")
 }
 
 model Soil {
-  id        String   @id @default(uuid())
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  id           String         @id @unique @default(uuid())
+  name         String         @unique
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+  soilAndPlant soilAndPlant[]
+  Regions      Regions[]
 
   @@map("soils")
 }
 
-model SoilAndPlant {
+model soilAndPlant {
   id        String   @id @default(uuid())
+  soil      Soil     @relation(fields: [soilId], references: [id], onDelete: Cascade)
+  soilId    String
+  plant     Plant    @relation(fields: [plantId], references: [id], onDelete: Cascade)
+  plantId   String
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 
@@ -41,9 +70,19 @@ model SoilAndPlant {
 }
 
 model Regions {
-  id        String   @id @default(uuid())
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  id          String   @id @unique @default(uuid())
+  name        String
+  area        String
+  longitude   String
+  latitude    String
+  temperature Int
+  rainfall    Int
+  humidity    String
+  season      String
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  soil        Soil     @relation(fields: [soilId], references: [id], onDelete: Cascade)
+  soilId      String
 
   @@map("regions")
 }
