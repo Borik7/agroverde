@@ -2,8 +2,8 @@
   {
     "name": "Սպիտակ",
     "area": "Լոռու մարզ",
-    "latitude": "40.830741",
-    "longitude": "44.270416",
+    "latitude": "41.1100",
+    "longitude": "44.1100",
     "temperature": 17,
     "rainfall": 600,
     "humidity": "70%",
@@ -16,8 +16,8 @@
   {
     "name": "Հոբարձի",
     "area": "Լոռու մարզ",
-    "latitude": "40.959921",
-    "longitude": "44.495667",
+    "latitude": "41.1200",
+    "longitude": "44.1200",
     "temperature": 16,
     "rainfall": 610,
     "humidity": "71%",
@@ -30,8 +30,8 @@
   {
     "name": "Ղուրսալի",
     "area": "Լոռու մարզ",
-    "latitude": "40.832351",
-    "longitude": "44.335027",
+    "latitude": "41.1300",
+    "longitude": "44.1300",
     "temperature": 17,
     "rainfall": 615,
     "humidity": "71%",
@@ -44,8 +44,8 @@
   {
     "name": "Լեռնանցք",
     "area": "Լոռու մարզ",
-    "latitude": "40.893126",
-    "longitude": "43.875543",
+    "latitude": "41.1400",
+    "longitude": "44.1400",
     "temperature": 17,
     "rainfall": 620,
     "humidity": "72%",
@@ -58,8 +58,8 @@
   {
     "name": "Սարալանջ",
     "area": "Լոռու մարզ",
-    "latitude": "40.873121",
-    "longitude": "44.098341",
+    "latitude": "41.1500",
+    "longitude": "44.1500",
     "temperature": 17,
     "rainfall": 625,
     "humidity": "72%",
@@ -72,8 +72,8 @@
   {
     "name": "Տաշիր",
     "area": "Լոռու մարզ",
-    "latitude": "41.119564",
-    "longitude": "44.286060",
+    "latitude": "41.1600",
+    "longitude": "44.1600",
     "temperature": 17,
     "rainfall": 630,
     "humidity": "72%",
@@ -86,8 +86,8 @@
   {
     "name": "Սարչպետ",
     "area": "Լոռու մարզ",
-    "latitude": "41.196772",
-    "longitude": "44.381418",
+    "latitude": "41.1700",
+    "longitude": "44.1700",
     "temperature": 15,
     "rainfall": 635,
     "humidity": "73%",
@@ -95,13 +95,13 @@
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 15,
     "summerDayTemp": 27,
-    "winterTemperature": -21
+    "winterTemperature": -18
   },
   {
     "name": "Մեծավան",
     "area": "Լոռու մարզ",
-    "latitude": "41.200278",
-    "longitude": "44.229415",
+    "latitude": "41.1800",
+    "longitude": "44.1800",
     "temperature": 16,
     "rainfall": 640,
     "humidity": "73%",
@@ -114,8 +114,8 @@
   {
     "name": "Ուռուտ",
     "area": "Լոռու մարզ",
-    "latitude": "41.071657",
-    "longitude": "44.393072",
+    "latitude": "41.1900",
+    "longitude": "44.1900",
     "temperature": 19,
     "rainfall": 645,
     "humidity": "73%",
@@ -128,8 +128,8 @@
   {
     "name": "Կաթնառատ",
     "area": "Լոռու մարզ",
-    "latitude": "41.061718",
-    "longitude": "44.195702",
+    "latitude": "41.2000",
+    "longitude": "44.2000",
     "temperature": 16,
     "rainfall": 650,
     "humidity": "74%",
@@ -137,13 +137,13 @@
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 16,
     "summerDayTemp": 27,
-    "winterTemperature": -23
+    "winterTemperature": -17
   },
   {
     "name": "Բլագորադնոե",
     "area": "Լոռու մարզ",
-    "latitude": "41.087709",
-    "longitude": "44.180126",
+    "latitude": "41.2100",
+    "longitude": "44.2100",
     "temperature": 19,
     "rainfall": 655,
     "humidity": "74%",
@@ -151,7 +151,7 @@
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 19,
     "summerDayTemp": 32,
-    "winterTemperature": -22
+    "winterTemperature": -16
   },
   {
     "name": "Նովոսելցվո",
@@ -170,10 +170,10 @@
   {
     "name": "Ստեփանավան",
     "area": "Լոռու մարզ",
-    "latitude": "41.056098",
-    "longitude": "44.277200",
+    "latitude": "41.2300",
+    "longitude": "44.2300",
     "temperature": 14,
-    "rainfall": 865,
+    "rainfall": 665,
     "humidity": "75%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",

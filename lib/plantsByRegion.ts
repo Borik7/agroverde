@@ -5,12 +5,13 @@ export async function getPlantsByRegion(regionId: string) {
   const region = await RegionsRepository.getById(regionId);
   if (region === null) return "Region not found";
 
+  console.log("-region.winterTemperature:", region.winterTemperature);
   const plants = await PlantRepository.getManyByAllCategories(
     region.temperature,
+    region.winterTemperature,
     region.rainfall,
     region.soilId
   );
-  console.log("-plants:", plants);
 
   return plants;
 }

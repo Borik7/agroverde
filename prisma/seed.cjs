@@ -27,6 +27,7 @@ async function main() {
         humidity: region.humidity,
         season: region.season,
         soilId: soilType.id,
+        winterTemperature: region.winterTemperature,
       },
     });
   }

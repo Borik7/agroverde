@@ -2,33 +2,41 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Leaf, Home, TreePine, MapPin, RotateCcw, Globe } from "lucide-react";
+import {
+  Users,
+  MessageCircle,
+  BookOpenText,
+  Leaf,
+  User,
+  Globe,
+} from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 
-const Navigation = () => {
+const CommunityNavigation = () => {
   const pathname = usePathname();
 
   const navItems = [
-    { href: "/", label: "Գլխավոր", icon: Home },
-    { href: "/plants", label: "Բույսեր", icon: TreePine },
-    { href: "/region-selector", label: "Շրջանների ընտրություն", icon: MapPin },
+    { href: "/community/posts", label: "Հրապարակումներ", icon: BookOpenText },
     {
-      href: "/rotation",
-      label: "Մշակաբույսերի ռոտացիա",
-      icon: RotateCcw,
+      href: "/community/questions",
+      label: "Հարց ու պատասխան",
+      icon: MessageCircle,
     },
+    { href: "/community/me", label: "Իմ էջը", icon: User },
   ];
 
   return (
     <nav className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container mx-auto px-4">
         <div className="flex h-16 items-center justify-between">
-          <Link href="/" className="flex items-center space-x-2">
+          <Link href="/community" className="flex items-center space-x-2">
             <div className="flex h-8 w-8 items-center justify-center rounded-full bg-primary">
               <Leaf className="h-5 w-5 text-white" />
             </div>
-            <span className="text-xl font-bold text-gradient">AgroVerde</span>
+            <span className="text-xl font-bold text-gradient">
+              AgroCommunity
+            </span>
           </Link>
 
           <div className="hidden md:flex items-center space-x-1">
@@ -50,7 +58,6 @@ const Navigation = () => {
           </div>
 
           <div className="flex items-center space-x-2">
-            {/* Globe icon with hover to white */}
             <Button
               variant="ghost"
               size="icon"
@@ -59,17 +66,15 @@ const Navigation = () => {
             >
               <Globe className="h-5 w-5 text-muted-foreground group-hover:text-white transition-colors" />
             </Button>
-
-            {/* Community link with hover effect on icon */}
-            <Link href="/community">
+            <Link href="/">
               <Button
-                variant="outline"
+                variant="ghost"
                 size="sm"
-                className="group hidden sm:flex items-center space-x-1"
+                className="space-x-1 group transition-colors"
               >
                 <Leaf className="h-4 w-4 text-green-600 group-hover:text-white transition-colors" />
-                <span className="group-hover:text-white transition-colors">
-                  Մեր համայնքը
+                <span className="text-muted-foreground group-hover:text-white transition-colors">
+                  Գլխավոր
                 </span>
               </Button>
             </Link>
@@ -102,4 +107,4 @@ const Navigation = () => {
   );
 };
 
-export default Navigation;
+export default CommunityNavigation;

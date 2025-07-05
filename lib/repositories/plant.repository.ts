@@ -16,22 +16,49 @@ export const PlantRepository = {
 
   delete: (id: string) => prisma.plant.delete({ where: { id } }),
 
-  getManyByAllCategories(
+  async getManyByAllCategories(
     temperature: number,
+    winterTemperature: number,
     precipitation: number,
     soilId: string
   ) {
-    return prisma.plant.findMany({
+    const fruitsAndBerries = await prisma.plant.findMany({
       where: {
         soilAndPlant: {
-          some: { soilId: soilId },
+          some: { soilId },
         },
         minTemperature: { lte: temperature },
         maxTemperature: { gte: temperature },
         minPrecipitation: { lte: precipitation },
         maxPrecipitation: { gte: precipitation },
+        frostResistance: { lte: winterTemperature },
+        plantFamily: {
+          category: {
+            in: ["Միրգ", "Հատապտուղ"],
+          },
+        },
       },
       include: { plantFamily: true },
     });
+
+    const others = await prisma.plant.findMany({
+      where: {
+        soilAndPlant: {
+          some: { soilId },
+        },
+        minTemperature: { lte: temperature },
+        maxTemperature: { gte: temperature },
+        minPrecipitation: { lte: precipitation },
+        maxPrecipitation: { gte: precipitation },
+        plantFamily: {
+          category: {
+            notIn: ["Միրգ", "Հատապտուղ"],
+          },
+        },
+      },
+      include: { plantFamily: true },
+    });
+
+    return [...fruitsAndBerries, ...others];
   },
 };

@@ -26,7 +26,7 @@ model Plant {
   growingSeason            String         @map("growing_season")
   fertilityBegins          String         @map("fertility_begins")
   averageYield             String         @map("average_yield")
-  frostResistance          String         @map("frost_resistance")
+  frostResistance          Int            @map("frost_resistance")
   susceptibilityToDiseases String         @map("susceptibility_to_diseases")
   soilAndPlant             soilAndPlant[]
   createdAt                DateTime       @default(now())
@@ -70,19 +70,20 @@ model soilAndPlant {
 }
 
 model Regions {
-  id          String   @id @unique @default(uuid())
-  name        String
-  area        String
-  longitude   String
-  latitude    String
-  temperature Int
-  rainfall    Int
-  humidity    String
-  season      String
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
-  soil        Soil     @relation(fields: [soilId], references: [id], onDelete: Cascade)
-  soilId      String
+  id                String   @id @unique @default(uuid())
+  name              String
+  area              String
+  longitude         String
+  latitude          String
+  temperature       Int
+  winterTemperature Int
+  rainfall          Int
+  humidity          String
+  season            String
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+  soil              Soil     @relation(fields: [soilId], references: [id], onDelete: Cascade)
+  soilId            String
 
   @@map("regions")
 }

@@ -19,7 +19,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "15–30 կգ",
-    "frostResistance": "Բարձր",
+    "frostResistance": -25,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -48,7 +48,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3 տարեկանից",
     "averageYield": "12–20 կգ",
-    "frostResistance": "Միջին",
+    "frostResistance": -15,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -58,7 +58,6 @@
     ],
     "susceptibilityToDiseases": "Ցածր (տարածված հիվանդություններին դիմադրող)"
   },
-
   {
     "name": "Հարանցի",
     "plantFamily": {
@@ -79,7 +78,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "18–25 կգ",
-    "frostResistance": "Միջին-բարձր",
+    "frostResistance": -22,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -109,7 +108,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3 տարեկանից",
     "averageYield": "15–25 կգ",
-    "frostResistance": "Միջին",
+    "frostResistance": -20,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -120,7 +119,6 @@
     ],
     "susceptibilityToDiseases": "Միջին"
   },
-
   {
     "name": "Սիմիրենկո խնձոր",
     "plantFamily": {
@@ -141,7 +139,7 @@
     "growingSeason": "Ապրիլ – Հոկտեմբեր",
     "fertilityBegins": "4 տարեկանից",
     "averageYield": "30–40 կգ",
-    "frostResistance": "Բարձր",
+    "frostResistance": -25,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -171,7 +169,7 @@
     "growingSeason": "Ապրիլ – Հոկտեմբեր",
     "fertilityBegins": "4–5 տարեկանից",
     "averageYield": "25–35 կգ",
-    "frostResistance": "Միջին",
+    "frostResistance": -20,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -201,7 +199,7 @@
     "growingSeason": "Ապրիլ – Հոկտեմբեր",
     "fertilityBegins": "4–5 տարեկանից",
     "averageYield": "30–45 կգ",
-    "frostResistance": "Միջին",
+    "frostResistance": -18,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -230,7 +228,7 @@
     "growingSeason": "Ապրիլ – Հոկտեմբեր",
     "fertilityBegins": "4 տարեկանից",
     "averageYield": "25–40 կգ",
-    "frostResistance": "Միջին",
+    "frostResistance": -18,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -258,7 +256,7 @@
     "growingSeason": "Ապրիլ – Հոկտեմբեր",
     "fertilityBegins": "4 տարեկանից",
     "averageYield": "35–50 կգ",
-    "frostResistance": "Միջին",
+    "frostResistance": -16,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -287,7 +285,7 @@
     "growingSeason": "Ապրիլ – Հոկտեմբեր",
     "fertilityBegins": "4–5 տարեկանից",
     "averageYield": "25–40 կգ",
-    "frostResistance": "Բարձր",
+    "frostResistance": -22,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -317,7 +315,7 @@
     "growingSeason": "Մայիս – Սեպտեմբեր",
     "fertilityBegins": "4–6 տարեկանից",
     "averageYield": "15–25 կգ",
-    "frostResistance": "Շատ բարձր",
+    "frostResistance": -30,
     "soilType": [
       "Լեռնային սևահողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -345,7 +343,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "20–35 կգ",
-    "frostResistance": "Բարձր",
+    "frostResistance": -25,
     "soilType": [
       "Լեռնային սևահողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -374,8 +372,11 @@
     "growingSeason": "Մայիս – Սեպտեմբեր",
     "fertilityBegins": "5–7 տարեկանից",
     "averageYield": "10–20 կգ",
-    "frostResistance": "Շատ բարձր",
-    "soilType": ["Լեռնային սևահողեր", "Լեռնաշագանակագույն հողեր"],
+    "frostResistance": -30,
+    "soilType": [
+      "Լեռնային սևահողեր",
+      "Լեռնաշագանակագույն հողեր"
+    ],
     "susceptibilityToDiseases": "Ցածր"
   },
   {
@@ -398,7 +399,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "4–5 տարեկանից",
     "averageYield": "20–30 կգ",
-    "frostResistance": "Շատ բարձր",
+    "frostResistance": -28,
     "soilType": [
       "Լեռնային սևահողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -406,7 +407,6 @@
     ],
     "susceptibilityToDiseases": "Ցածր"
   },
-
   {
     "name": "Արցախյան տանձ",
     "plantFamily": {
@@ -427,7 +427,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "4–5 տարեկանից",
     "averageYield": "20–30 կգ",
-    "frostResistance": "Բավականին բարձր",
+    "frostResistance": -20,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -455,7 +455,7 @@
     "growingSeason": "Մայիս – Սեպտեմբեր",
     "fertilityBegins": "4–6 տարեկանից",
     "averageYield": "25–35 կգ",
-    "frostResistance": "Շատ բարձր",
+    "frostResistance": -28,
     "soilType": [
       "Լեռնային սևահողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -483,7 +483,7 @@
     "growingSeason": "Մայիս – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "20–30 կգ",
-    "frostResistance": "Շատ բարձր",
+    "frostResistance": -30,
     "soilType": [
       "Լեռնային սևահողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -511,7 +511,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "4–6 տարեկանից",
     "averageYield": "25–35 կգ",
-    "frostResistance": "Միջինից բարձր",
+    "frostResistance": -20,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -539,7 +539,7 @@
     "growingSeason": "Մայիս – Սեպտեմբեր",
     "fertilityBegins": "4–5 տարեկանից",
     "averageYield": "20–30 կգ",
-    "frostResistance": "Բարձր",
+    "frostResistance": -25,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Կուլտուր ոռոգելի հողեր",
@@ -567,7 +567,7 @@
     "growingSeason": "Մարտ – Օգոստոս",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "25–40 կգ",
-    "frostResistance": "Միջինից բարձր",
+    "frostResistance": -25,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -595,7 +595,7 @@
     "growingSeason": "Մայիս – Սեպտեմբեր",
     "fertilityBegins": "4–5 տարեկանից",
     "averageYield": "25–35 կգ",
-    "frostResistance": "Բավականին բարձր",
+    "frostResistance": -23,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -623,7 +623,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "30–40 կգ",
-    "frostResistance": "Բավականին բարձր",
+    "frostResistance": -25,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -651,7 +651,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–5 տարեկանից",
     "averageYield": "30–40 կգ",
-    "frostResistance": "Միջինից բարձր",
+    "frostResistance": -22,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -679,7 +679,7 @@
     "growingSeason": "Մայիս – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "35–45 կգ",
-    "frostResistance": "Միջին",
+    "frostResistance": -20,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -687,7 +687,6 @@
     ],
     "susceptibilityToDiseases": "Միջինից բարձր (պահանջում է մշակումներ մոնիլյոզի և ժանգի դեմ)"
   },
-
   {
     "name": "Վոսկեհատ",
     "plantFamily": {
@@ -708,8 +707,11 @@
     "growingSeason": "Մայիս – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "8–12 տոննա հեկտարից",
-    "frostResistance": "Միջին",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Լեռնային սևահողեր"],
+    "frostResistance": -18,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Լեռնային սևահողեր"
+    ],
     "susceptibilityToDiseases": "Միջին (պահանջում է կանխարգելիչ միջոցառումներ՝ մոնիլյոզի և փոշոտման դեմ)"
   },
   {
@@ -732,7 +734,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "7–10 տոննա հեկտարից",
-    "frostResistance": "Բավականին բարձր",
+    "frostResistance": -22,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Լեռնային սևահողեր",
@@ -760,7 +762,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "2–4 տարեկանից",
     "averageYield": "8–15 տոննա հեկտարից",
-    "frostResistance": "Բարձր (համեմատաբար դիմացկուն ցրտահարման և հիվանդությունների նկատմամբ)",
+    "frostResistance": -28,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Կուլտուր ոռոգելի հողեր",
@@ -789,8 +791,11 @@
     "growingSeason": "Մայիս – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "7–10 տոննա հեկտարից",
-    "frostResistance": "Միջին",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Լեռնային սևահողեր"],
+    "frostResistance": -18,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Լեռնային սևահողեր"
+    ],
     "susceptibilityToDiseases": "Միջին (պահանջում է մշակումներ՝ մոնիլյոզի և ժանգի դեմ)"
   },
   {
@@ -813,7 +818,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "2–3 տարեկանից",
     "averageYield": "6–9 տոննա հեկտարից",
-    "frostResistance": "Բարձր",
+    "frostResistance": -25,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Կուլտուր ոռոգելի հողեր",
@@ -841,8 +846,11 @@
     "growingSeason": "Ապրիլ – Նոյեմբեր",
     "fertilityBegins": "3–5 տարեկանից",
     "averageYield": "25–40 տոննա հեկտարից",
-    "frostResistance": "Սահմանափակ (կատարյալ չի դիմանում ցրտերին)",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -3,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին (պահանջում է կանխարգելիչ միջոցառումներ բծավորության և փչացման դեմ)"
   },
   {
@@ -865,8 +873,11 @@
     "growingSeason": "Մարտ – Նոյեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "20–35 տոննա հեկտարից",
-    "frostResistance": "Սահմանափակ (չի դիմանում կտրուկ ցրտերին)",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -4,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին (պահանջում է կանխարգելիչ միջոցառումներ բծավորության և փչացման դեմ)"
   },
   {
@@ -889,8 +900,11 @@
     "growingSeason": "Ապրիլ – Նոյեմբեր",
     "fertilityBegins": "3–5 տարեկանից",
     "averageYield": "25–40 տոննա հեկտարից",
-    "frostResistance": "Սահմանափակ (չի դիմանում կտրուկ ցրտերին)",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -5,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին (պահանջում է կանխարգելիչ միջոցառումներ մուգ բծավորության և փչացման դեմ)"
   },
   {
@@ -913,7 +927,7 @@
     "growingSeason": "Ապրիլ – Նոյեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "18–30 տոննա հեկտարից",
-    "frostResistance": "Սահմանափակ (չի դիմանում ցրտերին)",
+    "frostResistance": -4,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Կուլտուր ոռոգելի հողեր",
@@ -941,8 +955,11 @@
     "growingSeason": "Ապրիլ – Հոկտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "15–25 կգ մեկ ծառից",
-    "frostResistance": "Բարձր",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -25,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին (պահանջում է մշակում փոշոտման և բորբոսների դեմ)"
   },
   {
@@ -965,8 +982,11 @@
     "growingSeason": "Ապրիլ – Հոկտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "12–20 կգ մեկ ծառից",
-    "frostResistance": "Բարձր",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -22,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին (պահանջում է կանխարգելիչ միջոցառումներ փոշոտման և բորբոսների դեմ)"
   },
   {
@@ -989,8 +1009,11 @@
     "growingSeason": "Ապրիլ – Հոկտեմբեր",
     "fertilityBegins": "3–5 տարեկանից",
     "averageYield": "14–22 կգ մեկ ծառից",
-    "frostResistance": "Բարձր",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -20,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին (պահանջում է մշակում փոշոտման և բորբոսների դեմ)"
   },
   {
@@ -1013,8 +1036,11 @@
     "growingSeason": "Ապրիլ – Հոկտեմբեր",
     "fertilityBegins": "3–5 տարեկանից",
     "averageYield": "13–21 կգ մեկ ծառից",
-    "frostResistance": "Բարձր",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -23,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին (պահանջում է կանխարգելիչ միջոցառումներ փոշոտման և բորբոսների դեմ)"
   },
   {
@@ -1037,8 +1063,11 @@
     "growingSeason": "Ապրիլ – Հոկտեմբեր",
     "fertilityBegins": "3–5 տարեկանից",
     "averageYield": "16–24 կգ մեկ ծառից",
-    "frostResistance": "Բարձր",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -24,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին (պահանջում է կանխարգելիչ միջոցառումներ փոշոտման և բորբոսների դեմ)"
   },
   {
@@ -1061,7 +1090,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "20–30 կգ մեկ ծառից",
-    "frostResistance": "Բարձր",
+    "frostResistance": -22,
     "soilType": [
       "Լեռնային սևահողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -1089,7 +1118,7 @@
     "growingSeason": "Ապրիլ – Օգոստոս",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "15–25 կգ մեկ ծառից",
-    "frostResistance": "Միջին",
+    "frostResistance": -18,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Մարգագետնատափաստանային հողեր",
@@ -1117,7 +1146,7 @@
     "growingSeason": "Լողացատը՝ 9-12 ամիս (լուսավորության և ջերմաստիճանի պայմաններից)",
     "fertilityBegins": "9-12 ամիս տնկումից հետո",
     "averageYield": "30–40 տոննա հեկտարից",
-    "frostResistance": "Չի դիմանում ցրտերին",
+    "frostResistance": 12,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Աղուտ և ալկալի հողեր",
@@ -1145,7 +1174,7 @@
     "growingSeason": "Ապրիլ – Հոկտեմբեր",
     "fertilityBegins": "4–5 տարեկանից",
     "averageYield": "10–20 տոննա հեկտարից",
-    "frostResistance": "Միջին (հատկապես ծաղկման ժամանակ զգայուն է)",
+    "frostResistance": -15,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Մարգագետնատափաստանային հողեր",
@@ -1173,8 +1202,11 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "12–22 կգ մեկ ծառից",
-    "frostResistance": "Միջին",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -20,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին, պահանջում է կանխարգելիչ մշակում փոշոտման և բորբոսների դեմ"
   },
   {
@@ -1197,8 +1229,11 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–5 տարեկանից",
     "averageYield": "14–24 կգ մեկ ծառից",
-    "frostResistance": "Միջին",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -18,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին, պահանջում է կանխարգելիչ մշակում փոշոտման և բորբոսների դեմ"
   },
   {
@@ -1221,8 +1256,11 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–5 տարեկանից",
     "averageYield": "13–23 կգ մեկ ծառից",
-    "frostResistance": "Միջին",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -22,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին, պահանջում է կանխարգելիչ մշակում փոշոտման և բորբոսների դեմ"
   },
   {
@@ -1245,8 +1283,11 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–5 տարեկանից",
     "averageYield": "14–24 կգ մեկ ծառից",
-    "frostResistance": "Միջին",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -18,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին, պահանջում է կանխարգելիչ մշակում փոշոտման և բորբոսների դեմ"
   },
   {
@@ -1269,8 +1310,11 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "15–25 կգ մեկ ծառից",
-    "frostResistance": "Միջին",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -20,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին, պահանջում է կանխարգելիչ մշակում փոշոտման և բորբոսների դեմ"
   },
   {
@@ -1293,8 +1337,11 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "18–30 կգ մեկ ծառից",
-    "frostResistance": "Միջին",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -18,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին, պահանջում է կանխարգելիչ մշակում փոշոտման և բորբոսների դեմ"
   },
   {
@@ -1317,11 +1364,13 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–5 տարեկանից",
     "averageYield": "15–28 կգ մեկ ծառից",
-    "frostResistance": "Միջին",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -20,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին, պահանջում է կանխարգելիչ մշակում փոշոտման և բորբոսների դեմ"
   },
-
   {
     "name": "Եվրոպական",
     "plantFamily": {
@@ -1342,7 +1391,7 @@
     "growingSeason": "Ապրիլ – Նոյեմբեր",
     "fertilityBegins": "3–5 տարեկանից",
     "averageYield": "20–35 կգ մեկ ծառից",
-    "frostResistance": "Նվազագույն, զգայուն է ցրտահարությանը",
+    "frostResistance": -2,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -1370,7 +1419,7 @@
     "growingSeason": "Ապրիլ – Նոյեմբեր",
     "fertilityBegins": "3–5 տարեկանից",
     "averageYield": "20–38 կգ մեկ ծառից",
-    "frostResistance": "Միջին (վտանգ է երկարատև սառը փոթորիկներից)",
+    "frostResistance": -5,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -1398,8 +1447,11 @@
     "growingSeason": "Ապրիլ – Հոկտեմբեր",
     "fertilityBegins": "3–5 տարեկանից",
     "averageYield": "15–28 կգ մեկ ծառից",
-    "frostResistance": "Բարձր (հարմար է ցրտադիմացկուն տարածքների համար)",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -10,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին, պահանջում է կանխարգելիչ մշակում"
   },
   {
@@ -1422,7 +1474,7 @@
     "growingSeason": "Ապրիլ – Նոյեմբեր",
     "fertilityBegins": "4–6 տարեկանից",
     "averageYield": "25–45 կգ մեկ ծառից",
-    "frostResistance": "Ցածր (պահանջում է ծածկ կամ ջերմոց ցրտաշունչ շրջաններում)",
+    "frostResistance": -3,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Գետահովտամարգագետնային հողեր",
@@ -1450,7 +1502,7 @@
     "growingSeason": "Մարտ – Նոյեմբեր",
     "fertilityBegins": "3–5 տարեկանից",
     "averageYield": "20–40 կգ մեկ ծառից",
-    "frostResistance": "Միջին, պահանջում է պաշտպանություն՝ բացօթյա մշակման դեպքում",
+    "frostResistance": -2,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնանտառային գորշ և դարչնագույն հողեր"
@@ -1477,7 +1529,7 @@
     "growingSeason": "Մարտ – Նոյեմբեր (հարավում հնարավոր է նաև ամբողջ տարին)",
     "fertilityBegins": "3–4 տարեկանից (պատշաճ խնամքի դեպքում)",
     "averageYield": "20–40 կգ մեկ ծառից",
-    "frostResistance": "Միջինից ցածր՝ զգայուն սառնամանիքներին",
+    "frostResistance": -4,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -1505,7 +1557,7 @@
     "growingSeason": "Մարտ – Նոյեմբեր",
     "fertilityBegins": "4–5 տարեկանից",
     "averageYield": "25–45 կգ մեկ ծառից",
-    "frostResistance": "Միջինից բարձր, համարվում է առավել ցրտադիմացկուն ավոկադոյի սորտերից",
+    "frostResistance": -6,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -1533,7 +1585,7 @@
     "growingSeason": "Մարտ – Նոյեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "20–35 կգ մեկ ծառից",
-    "frostResistance": "Բարձր",
+    "frostResistance": -6,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -1561,7 +1613,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարի",
     "averageYield": "20–30 կգ մեկ ծառից",
-    "frostResistance": "Միջին",
+    "frostResistance": -15,
     "soilType": [
       "Լեռնային սևահողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -1590,7 +1642,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–5 տարի",
     "averageYield": "15–25 կգ մեկ ծառից",
-    "frostResistance": "Բարձր",
+    "frostResistance": 0,
     "soilType": [
       "Լեռնային սևահողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -1619,7 +1671,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–5 տարի",
     "averageYield": "15–22 կգ մեկ ծառից",
-    "frostResistance": "Միջին",
+    "frostResistance": 0,
     "soilType": [
       "Լեռնային սևահողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -1648,7 +1700,7 @@
     "growingSeason": "70–80 օր ցանքից հետո",
     "fertilityBegins": "70–80 օր ցանքից հետո",
     "averageYield": "15–25 տոննա մեկ հեկտարից",
-    "frostResistance": "Չնչին՝ զգայուն է ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Մարգագետնատափաստանային հողեր",
       "Գետահովտամարգագետնային հողեր",
@@ -1677,7 +1729,7 @@
     "growingSeason": "75–85 օր ցանքից հետո",
     "fertilityBegins": "75–85 օր ցանքից հետո",
     "averageYield": "18–30 տոննա մեկ հեկտարից",
-    "frostResistance": "Չնչին, զգայուն է ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Մարգագետնատափաստանային հողեր",
       "Գետահովտամարգագետնային հողեր",
@@ -1706,7 +1758,7 @@
     "growingSeason": "80–90 օր ցանքից հետո",
     "fertilityBegins": "80–90 օր ցանքից հետո",
     "averageYield": "20–35 տոննա մեկ հեկտարից",
-    "frostResistance": "Չնչին, զգայուն է ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Մարգագետնատափաստանային հողեր",
       "Գետահովտամարգագետնային հողեր",
@@ -1736,7 +1788,7 @@
     "growingSeason": "85–100 օր՝ կախված կլիմայից և պայմաններից",
     "fertilityBegins": "85-րդ օրից",
     "averageYield": "30–45 տոննա մեկ հեկտար",
-    "frostResistance": "Միջինից ցածր, կարող է վնասվել հողի ցրտահարման պատճառով",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Աղուտ և ալկալի հողեր",
@@ -1770,7 +1822,7 @@
     "growingSeason": "85–100 օր՝ կախված կլիմայից և պայմաններից",
     "fertilityBegins": "85-րդ օրից",
     "averageYield": "30–45 տոննա մեկ հեկտար",
-    "frostResistance": "Միջինից ցածր, կարող է վնասվել հողի ցրտահարման պատճառով",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Աղուտ և ալկալի հողեր",
@@ -1804,7 +1856,7 @@
     "growingSeason": "70–80 օր ցանքից հետո",
     "fertilityBegins": "70–80 օրից",
     "averageYield": "15–25 տոննա մեկ հեկտար",
-    "frostResistance": "Չնչին՝ զգայուն է ցրտերին",
+    "frostResistance": -1,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Աղուտ և ալկալի հողեր",
@@ -1837,7 +1889,7 @@
     "growingSeason": "80–100 օր",
     "fertilityBegins": "Բերքատվություն",
     "averageYield": "40–60 տոննա մեկ հեկտարից",
-    "frostResistance": "Չի դիմանում ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -1865,7 +1917,7 @@
     "growingSeason": "90–110 օր",
     "fertilityBegins": "Բերքատվություն",
     "averageYield": "25–35 տոննա մեկ հեկտար",
-    "frostResistance": "Չի դիմանում ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Մարգագետնատափաստանային հողեր",
       "Լեռնային սևահողեր",
@@ -1893,7 +1945,7 @@
     "growingSeason": "75–90 օր",
     "fertilityBegins": "Բերքատվություն",
     "averageYield": "35–50 տոննա մեկ հեկտարից",
-    "frostResistance": "Չի դիմանում ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Գետահովտամարգագետնային հողեր",
@@ -1922,7 +1974,7 @@
     "growingSeason": "85–100 օր",
     "fertilityBegins": "Բերքատվություն",
     "averageYield": "25–40 տոննա մեկ հեկտարից",
-    "frostResistance": "Չի դիմանում ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Լեռնային սևահողեր",
       "Լեռնանտառային գորշ և դարչնագույն հողեր",
@@ -1950,7 +2002,7 @@
     "growingSeason": "45–55 օր",
     "fertilityBegins": "Բերքատվություն",
     "averageYield": "35–50 տոննա մեկ հեկտարից",
-    "frostResistance": "Չի դիմանում ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -1979,7 +2031,7 @@
     "growingSeason": "50–65 օր",
     "fertilityBegins": "Բերքատվություն",
     "averageYield": "25–40 տոննա մեկ հեկտարից",
-    "frostResistance": "Չի դիմանում ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Մարգագետնատափաստանային հողեր",
@@ -2007,7 +2059,7 @@
     "growingSeason": "40–50 օր",
     "fertilityBegins": "Բերքատվություն",
     "averageYield": "40–55 տոննա մեկ հեկտարից",
-    "frostResistance": "Չի դիմանում ցրտահարությանը",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -2036,7 +2088,7 @@
     "growingSeason": "40–60 օր",
     "fertilityBegins": "Բերքատվություն",
     "averageYield": "25–40 տոննա մեկ հեկտարից",
-    "frostResistance": "Չի դիմանում ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Գետահովտամարգագետնային հողեր",
@@ -2065,7 +2117,7 @@
     "growingSeason": "70–85 օր",
     "fertilityBegins": "Բերքատվություն",
     "averageYield": "25–35 տոննա մեկ հեկտար",
-    "frostResistance": "Չի դիմանում ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -2094,7 +2146,7 @@
     "growingSeason": "70–90 օր ցանքից հետո",
     "fertilityBegins": "75–80-րդ օրից",
     "averageYield": "25–40 տոննա մեկ հեկտարից",
-    "frostResistance": "Չնչին՝ պահանջում է պաշտպանություն ցրտահարությունից",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Աղուտ և ալկալի հողեր",
@@ -2126,7 +2178,7 @@
     "growingSeason": "70–90 օր ցանքից հետո",
     "fertilityBegins": "75–85-րդ օրից",
     "averageYield": "20–35 տոննա մեկ հեկտարից",
-    "frostResistance": "Չնչին՝ զգայուն է ցրտահարության նկատմամբ",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Աղուտ և ալկալի հողեր",
@@ -2158,7 +2210,7 @@
     "growingSeason": "75–95 օր ցանքից հետո",
     "fertilityBegins": "75–90-րդ օրից",
     "averageYield": "18–30 տոննա մեկ հեկտարից",
-    "frostResistance": "Չնչին, զգայուն է ցրտահարության նկատմամբ",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Աղուտ և ալկալի հողեր",
@@ -2189,7 +2241,7 @@
     "growingSeason": "90–120 օր ցանքից հետո",
     "fertilityBegins": "90-րդ օրից",
     "averageYield": "25–40 տոննա մեկ հեկտարից",
-    "frostResistance": "Չի դիմանում ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Աղուտ և ալկալի հողեր",
@@ -2220,8 +2272,11 @@
     "growingSeason": "90–110 օր ցանքից հետո",
     "fertilityBegins": "90–110-րդ օրից",
     "averageYield": "20–35 տոննա մեկ հեկտարից",
-    "frostResistance": "Միջին, դիմադրում է ցրտերին՝ մինչև –5°C",
-    "soilType": ["Կուլտուր ոռոգելի հողեր", "Լեռնաշագանակագույն հողեր"],
+    "frostResistance": -5,
+    "soilType": [
+      "Կուլտուր ոռոգելի հողեր",
+      "Լեռնաշագանակագույն հողեր"
+    ],
     "soilPH": "5.5–6.5",
     "susceptibilityToDiseases": "տվյալներ չկան"
   },
@@ -2245,8 +2300,11 @@
     "growingSeason": "80–100 օր ցանքից հետո",
     "fertilityBegins": "80–100-րդ օրից",
     "averageYield": "18–30 տոննա մեկ հեկտարից",
-    "frostResistance": "Միջին, դիմադրում է ցրտերին՝ մինչև –6°C",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -6,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "soilPH": "5.0–6.5",
     "susceptibilityToDiseases": "Բարձր դիմադրություն"
   },
@@ -2270,8 +2328,11 @@
     "growingSeason": "85–100 օր ցանքից հետո",
     "fertilityBegins": "85–100-րդ օրից",
     "averageYield": "22–38 տոննա մեկ հեկտարից",
-    "frostResistance": "Միջին, դիմադրում է ցրտերին՝ մինչև –5°C",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -5,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "soilPH": "5.5–6.5",
     "susceptibilityToDiseases": "տվյալներ չկան"
   },
@@ -2295,8 +2356,10 @@
     "growingSeason": "90–110 օր ցանքից հետո",
     "fertilityBegins": "90–110-րդ օրից",
     "averageYield": "28–42 տոննա մեկ հեկտարից",
-    "frostResistance": "Բարձր, դիմադրում է ցրտերին՝ մինչև –10°C",
-    "soilType": ["Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": -10,
+    "soilType": [
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "soilPH": "5.0–6.5",
     "susceptibilityToDiseases": "տվյալներ չկան"
   },
@@ -2322,7 +2385,7 @@
     "yieldStartDay": 100,
     "averageYield": "25–40 տոննա մեկ հեկտարից",
     "susceptibilityToDiseases": "Միջին, զգայուն է հատկապես բակտերիալ փտածքների ու սնկային հիվանդությունների",
-    "frostResistance": "Դիմանում է ցածր ջերմաստիճանին մինչև –5°C, բայց զգայուն է սուր ցրտահարության:",
+    "frostResistance": -5,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Աղուտ և ալկալի հողեր",
@@ -2354,7 +2417,7 @@
     "fertilityBegins": "90–110-րդ օրից",
     "averageYield": "20–35 տոննա մեկ հեկտարից",
     "susceptibilityToDiseases": "Միջին, զգայուն է սնկային և մանրէաբանական վարակների հանդեպ",
-    "frostResistance": "Դիմանում է մինչև –6°C, բայց զգայուն է հողի խոնավության կտրուկ տատանումներին։",
+    "frostResistance": -6,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Աղուտ և ալկալի հողեր",
@@ -2386,7 +2449,7 @@
     "fertilityBegins": "Հուլիս – Օգոստոս",
     "averageYield": "8–12 տոննա մեկ հեկտարից",
     "susceptibilityToDiseases": "Միջին, զգայուն է Botrytis և Fusarium-ին",
-    "frostResistance": "Բարձր՝ դիմանում է մինչև –20°C։",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -2418,7 +2481,7 @@
     "fertilityBegins": "Հուլիս – Օգոստոս",
     "averageYield": "10–14 տոննա մեկ հեկտարից",
     "susceptibilityToDiseases": "Միջինից ցածր, դիմացկուն է մանրէային և վարակիչ հիվանդությունների նկատմամբ",
-    "frostResistance": "Շատ բարձր՝ դիմանում է մինչև –25°C",
+    "frostResistance": -25,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -2449,7 +2512,7 @@
     "fertilityBegins": "3 ամսից",
     "averageYield": "35–50 տոննա մեկ հեկտարից",
     "susceptibilityToDiseases": "Միջին, զգայուն է Cercospora leaf spot-ին",
-    "frostResistance": "Չի դիմանում ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -2481,7 +2544,7 @@
     "fertilityBegins": "2.5–3 ամիս",
     "averageYield": "25–40 տոննա մեկ հեկտարից",
     "susceptibilityToDiseases": "Միջին, զգայուն է փտածքներին",
-    "frostResistance": "Չի դիմանում ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -2511,7 +2574,7 @@
     "fertilityBegins": "80–90 օրից",
     "averageYield": "30–45 տոննա մեկ հեկտարից",
     "susceptibilityToDiseases": "Միջին, պահանջում է վերահսկում և ցողում բորբոսների դեմ",
-    "frostResistance": "Չի դիմանում ցրտերին",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -2541,7 +2604,7 @@
     "fertilityBegins": "3.5 ամիսից",
     "averageYield": "40–60 տոննա մեկ հեկտարից",
     "susceptibilityToDiseases": "Միջին զգայունություն՝ բորբոսների և խեցգետնոտուկների հանդեպ",
-    "frostResistance": "Դիմանում է մինչև –5°C, բայց կարիք ունի ժամանակին հավաքի։",
+    "frostResistance": -5,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -2572,7 +2635,7 @@
     "fertilityBegins": "2.5 – 3 ամիս",
     "averageYield": "35–55 տոննա մեկ հեկտարից",
     "susceptibilityToDiseases": "Բարձր զգայունություն սնկային վարակների հանդեպ",
-    "frostResistance": "Ցածր՝ պետք է հավաքել մինչև ցրտահարություն։",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -2602,7 +2665,7 @@
     "fertilityBegins": "4 – 5 ամիս",
     "averageYield": "60–80 տոննա մեկ հեկտարից",
     "susceptibilityToDiseases": "Բարձր դիմադրություն հիվանդությունների հանդեպ (Xanthomonas, Fusarium)",
-    "frostResistance": "Դիմանում է մինչև –5°C։",
+    "frostResistance": -5,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնային սևահողեր",
@@ -2632,7 +2695,7 @@
     "growingSeason": "100–130 օր",
     "fertilityBegins": "Ավելի քիչ տեղեկություններ, հաճախ 1 տարի հետո",
     "averageYield": "3–6 տոննա մեկ հեկտարից",
-    "frostResistance": "Միջին",
+    "frostResistance": 0,
     "soilType": [
       "Լեռնանտառային գորշ և դարչնագույն հողեր",
       "Մարգագետնատափաստանային հողեր",
@@ -2660,7 +2723,7 @@
     "growingSeason": "120–150 օր",
     "fertilityBegins": "Տարբերում է ըստ մշակման, հաճախ 1 տարի հետո",
     "averageYield": "2–4.5 տոննա մեկ հեկտարից",
-    "frostResistance": "Ցածր",
+    "frostResistance": 0,
     "soilType": [
       "Լեռնանտառային գորշ և դարչնագույն հողեր",
       "Մարգագետնատափաստանային հողեր",
@@ -2689,7 +2752,7 @@
     "growingSeason": "130–160 օր",
     "fertilityBegins": "Տարբերում է, հիմնականում 1 տարի հետո",
     "averageYield": "2–4 տոննա մեկ հեկտարից",
-    "frostResistance": "Միջին",
+    "frostResistance": 0,
     "soilType": [
       "Լեռնանտառային գորշ և դարչնագույն հողեր",
       "Մարգագետնատափաստանային հողեր",
@@ -2719,7 +2782,7 @@
     "growingSeason": "250–280 օր",
     "fertilityBegins": "1 տարի հետո",
     "averageYield": "3–7 տոննա մեկ հեկտարից",
-    "frostResistance": "Բարձր",
+    "frostResistance": 0,
     "soilType": [
       "Լեռնանտառային գորշ և դարչնագույն հողեր",
       "Մարգագետնատափաստանային հողեր",
@@ -2748,7 +2811,7 @@
     "growingSeason": "90–110 օր",
     "fertilityBegins": "1 տարի հետո",
     "averageYield": "2.5–5 տոննա մեկ հեկտարից",
-    "frostResistance": "Ցածր",
+    "frostResistance": 0,
     "soilType": [
       "Լեռնանտառային գորշ և դարչնագույն հողեր",
       "Մարգագետնատափաստանային հողեր",
@@ -2777,8 +2840,11 @@
     "growingSeason": "Մարտ – Հունիս",
     "fertilityBegins": "1 տարուց հետո",
     "averageYield": "2.5 – 4 տոննա մեկ հեկտարից",
-    "frostResistance": "Միջին-բարձր",
-    "soilType": ["Լեռնային սևահողեր", "Լեռնաշագանակագույն հողեր"],
+    "frostResistance": -20,
+    "soilType": [
+      "Լեռնային սևահողեր",
+      "Լեռնաշագանակագույն հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին (հիմնականում փոշոտում, սև պարկ)",
     "price": "~450–600 դրամ / կգ"
   },
@@ -2802,8 +2868,11 @@
     "growingSeason": "Ապրիլ – Հուլիս",
     "fertilityBegins": "1 տարուց հետո",
     "averageYield": "3–5 տոննա մեկ հեկտարից",
-    "frostResistance": "Միջին",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Լեռնային սևահողեր"],
+    "frostResistance": -18,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Լեռնային սևահողեր"
+    ],
     "susceptibilityToDiseases": "Միջին, զգայուն փոշոտման դեմ"
   },
   {
@@ -2826,8 +2895,11 @@
     "growingSeason": "Ապրիլ – Հուլիս",
     "fertilityBegins": "1–2 տարի հետո",
     "averageYield": "2–3.5 տոննա մեկ հեկտարից",
-    "frostResistance": "Միջին",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Լեռնային սևահողեր"],
+    "frostResistance": -15,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Լեռնային սևահողեր"
+    ],
     "susceptibilityToDiseases": "Միջին, փոշոտման դեմ մշակում անհրաժեշտ"
   },
   {
@@ -2850,8 +2922,11 @@
     "growingSeason": "Ապրիլ – Օգոստոս",
     "fertilityBegins": "1–2 տարի հետո",
     "averageYield": "2–4 տոննա մեկ հեկտարից",
-    "frostResistance": "Միջին-բարձր",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Լեռնային սևահողեր"],
+    "frostResistance": -20,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Լեռնային սևահողեր"
+    ],
     "susceptibilityToDiseases": "Նվազագույն, դիմացկուն փոշոտման նկատմամբ"
   },
   {
@@ -2874,8 +2949,11 @@
     "growingSeason": "Սեպտեմբեր – Հունիս",
     "fertilityBegins": "1–2 տարի հետո",
     "averageYield": "3–5 տոննա մեկ հեկտարից",
-    "frostResistance": "Բարձր (ձյան շնորհիվ)",
-    "soilType": ["Լեռնաշագանակագույն հողեր", "Լեռնային սևահողեր"],
+    "frostResistance": -25,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր",
+      "Լեռնային սևահողեր"
+    ],
     "susceptibilityToDiseases": "Միջին, փոշոտման դեմ մշակում պետք է"
   },
   {
@@ -2898,8 +2976,10 @@
     "growingSeason": "Մարտ – Հուլիս",
     "fertilityBegins": "1 տարի հետո",
     "averageYield": "2–3.5 տոննա մեկ հեկտարից",
-    "frostResistance": "Նվազագույն",
-    "soilType": ["Լեռնաշագանակագույն հողեր"],
+    "frostResistance": 0,
+    "soilType": [
+      "Լեռնաշագանակագույն հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին, փոշոտման դեմ մշակում անհրաժեշտ է"
   },
   {
@@ -2922,8 +3002,11 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր (շատ դեպքերում 90–120 օր)",
     "fertilityBegins": "2–3 ամիս ցանքից հետո",
     "averageYield": "5–8 տոննա մեկ հեկտարից",
-    "frostResistance": "Շատ ցածր (կարող է կորուստներ ունենալ նույնիսկ +5°C)",
-    "soilType": ["Կուլտուր ոռոգելի հողեր", "Լեռնային գորշ կիսանապատային հողեր"],
+    "frostResistance": 0,
+    "soilType": [
+      "Կուլտուր ոռոգելի հողեր",
+      "Լեռնային գորշ կիսանապատային հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին-բարձր (հատկապես խոցելի է արմատի, ցանցավոր խոցումների և մայիսային փոշոտման նկատմամբ)"
   },
   {
@@ -2946,8 +3029,11 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր (90–110 օր)",
     "fertilityBegins": "3 ամիս հետո",
     "averageYield": "6–9 տոննա մեկ հեկտարից",
-    "frostResistance": "Միջին (չի դիմանում կտրուկ ցրտերին)",
-    "soilType": ["Լեռնային գորշ կիսանապատային հողեր", "Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": 0,
+    "soilType": [
+      "Լեռնային գորշ կիսանապատային հողեր",
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին (հատկապես մարրակծու, փոշոտում)"
   },
   {
@@ -2970,8 +3056,10 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր (110–130 օր)",
     "fertilityBegins": "3–4 ամիս հետո",
     "averageYield": "7–11 տոննա մեկ հեկտարից",
-    "frostResistance": "Միջինից ցածր",
-    "soilType": ["Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": 5,
+    "soilType": [
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Բարձր (թմբուկավոր, սնկային հիվանդություններ)"
   },
   {
@@ -2994,8 +3082,10 @@
     "growingSeason": "Ապրիլ – Օգոստոս (90–100 օր)",
     "fertilityBegins": "3 ամիս հետո",
     "averageYield": "3–5 տոննա մեկ հեկտարից",
-    "frostResistance": "Նվազագույն",
-    "soilType": ["Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": 0,
+    "soilType": [
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին"
   },
   {
@@ -3018,8 +3108,10 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր (65–90 օր)",
     "fertilityBegins": "2–3 ամիս հետո",
     "averageYield": "8–12 տոննա մեկ հեկտարից",
-    "frostResistance": "Նվազագույն",
-    "soilType": ["Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": 0,
+    "soilType": [
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին"
   },
   {
@@ -3042,7 +3134,7 @@
     "growingSeason": "Ապրիլ – Օգոստոս",
     "fertilityBegins": "1–2 տարեկանից",
     "averageYield": "1.5–2.5 տոննա մեկ հեկտարից",
-    "frostResistance": "Միջին-բարձր",
+    "frostResistance": -20,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Լեռնային սևահողեր",
@@ -3070,7 +3162,7 @@
     "growingSeason": "Ապրիլ – Հուլիս",
     "fertilityBegins": "1 տարի հետո",
     "averageYield": "2.5–4 տոննա մեկ հեկտարից",
-    "frostResistance": "Միջին",
+    "frostResistance": -15,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Լեռնանտառային գորշ և դարչնագույն հողեր",
@@ -3098,7 +3190,7 @@
     "growingSeason": "Ապրիլ – Օգոստոս",
     "fertilityBegins": "1–2 տարի հետո",
     "averageYield": "1.2–2 տոննա մեկ հեկտարից",
-    "frostResistance": "Միջին",
+    "frostResistance": -10,
     "soilType": [
       "Լեռնանտառային գորշ և դարչնագույն հողեր",
       "Լեռնաշագանակագույն հողեր"
@@ -3125,8 +3217,11 @@
     "growingSeason": "Սեպտեմբեր – Հունիս",
     "fertilityBegins": "1 տարի հետո",
     "averageYield": "2–3.5 տոննա մեկ հեկտարից",
-    "frostResistance": "Բարձր",
-    "soilType": ["Լեռնային սևահողեր", "Լեռնաշագանակագույն հողեր"],
+    "frostResistance": -25,
+    "soilType": [
+      "Լեռնային սևահողեր",
+      "Լեռնաշագանակագույն հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին (փոշոտման դեմ մշակում անհրաժեշտ)"
   },
   {
@@ -3149,7 +3244,7 @@
     "growingSeason": "Ապրիլ – Հուլիս",
     "fertilityBegins": "1 տարի հետո",
     "averageYield": "1.5–2.8 տոննա մեկ հեկտարից",
-    "frostResistance": "Նվազագույն",
+    "frostResistance": 0,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Լեռնանտառային գորշ և դարչնագույն հողեր"
@@ -3176,7 +3271,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "20–35 կգ մեկ ծառից",
-    "frostResistance": "Բարձր",
+    "frostResistance": -22,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնանտառային գորշ և դարչնագույն հողեր",
@@ -3204,7 +3299,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "2–3 տարեկանից",
     "averageYield": "25–40 կգ մեկ ծառից",
-    "frostResistance": "Միջին-բարձր",
+    "frostResistance": -18,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնանտառային գորշ և դարչնագույն հողեր",
@@ -3232,7 +3327,7 @@
     "growingSeason": "Սեպտեմբեր – Հունիս",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "18–30 կգ մեկ ծառից",
-    "frostResistance": "Բարձր",
+    "frostResistance": -25,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Լեռնանտառային գորշ և դարչնագույն հողեր",
@@ -3260,7 +3355,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–4 ամսից (բայց կախված սորտից)",
     "averageYield": "1.5 – 3 տոննա / հա",
-    "frostResistance": "Միջին (չի դիմանում խիստ ցրտերին)",
+    "frostResistance": -10,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -3290,8 +3385,11 @@
     "growingSeason": "Ապրիլ – Հուլիս (75–90 օր)",
     "fertilityBegins": "2.5 – 3 ամիս հետո",
     "averageYield": "2.0 – 3.5 տ / հա",
-    "frostResistance": "Նվազագույն",
-    "soilType": ["Կուլտուր ոռոգելի հողեր", "Լեռնաշագանակագույն հողեր"],
+    "frostResistance": 0,
+    "soilType": [
+      "Կուլտուր ոռոգելի հողեր",
+      "Լեռնաշագանակագույն հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին"
   },
   {
@@ -3314,7 +3412,7 @@
     "growingSeason": "Սեպտեմբեր – Հունիս",
     "fertilityBegins": "3–4 ամիս հետո",
     "averageYield": "1.8 – 2.8 տ / հա",
-    "frostResistance": "Միջին",
+    "frostResistance": -15,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Լեռնանտառային գորշ և դարչնագույն հողեր",
@@ -3342,8 +3440,10 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր (90-120 օր)",
     "fertilityBegins": "3–4 ամիս հետո",
     "averageYield": "3 – 5 տ / հա (կերի համար)",
-    "frostResistance": "Նվազագույն",
-    "soilType": ["Կուլտուր ոռոգելի հողեր"],
+    "frostResistance": 0,
+    "soilType": [
+      "Կուլտուր ոռոգելի հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին",
     "priceWholesalePerKg": "~350–500 դրամ"
   },
@@ -3367,7 +3467,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "2–3 տարեկանից",
     "averageYield": "3 – 5 տ/հա",
-    "frostResistance": "Բարձր",
+    "frostResistance": -22,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Լեռնային սևահողեր",
@@ -3396,7 +3496,7 @@
     "growingSeason": "Սեպտեմբեր – Հունիս",
     "fertilityBegins": "2–3 տարի հետո",
     "averageYield": "3.5 – 6 տ / հա",
-    "frostResistance": "Բարձր",
+    "frostResistance": -25,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Լեռնային սևահողեր",
@@ -3424,8 +3524,11 @@
     "growingSeason": "Ապրիլ – Հուլիս",
     "fertilityBegins": "1.5 – 2 տարի հետո",
     "averageYield": "2.5 – 4 տ / հա",
-    "frostResistance": "Նվազագույն",
-    "soilType": ["Կուլտուր ոռոգելի հողեր", "Լեռնաշագանակագույն հողեր"],
+    "frostResistance": 0,
+    "soilType": [
+      "Կուլտուր ոռոգելի հողեր",
+      "Լեռնաշագանակագույն հողեր"
+    ],
     "susceptibilityToDiseases": "Միջին"
   },
   {
@@ -3454,7 +3557,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "1–2 տարեկանից",
     "averageYield": "1500 – 3000 կգ / հա",
-    "frostResistance": "Բարձր",
+    "frostResistance": -30,
     "susceptibilityToDiseases": "Միջին (պատասխանատու է փոշոտման, սնկային հիվանդությունների դեմ)"
   },
   {
@@ -3477,7 +3580,7 @@
     "growingSeason": "Մարտ – Սեպտեմբեր",
     "fertilityBegins": "1–2 տարիներից",
     "averageYield": "20 – 35 տ / հա",
-    "frostResistance": "Միջին (պահանջում է ձմեռային պաշտպանություն)",
+    "frostResistance": -15,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -3505,7 +3608,7 @@
     "growingSeason": "Մարտ – Հոկտեմբեր",
     "fertilityBegins": "Առաջին տարում, շարունակական",
     "averageYield": "25 – 40 տ / հա",
-    "frostResistance": "Միջին",
+    "frostResistance": -20,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -3533,7 +3636,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "2–3 տարեկանից",
     "averageYield": "2 – 5 կգ մեկ թուփից",
-    "frostResistance": "Շատ բարձր",
+    "frostResistance": -30,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Լեռնային սևահողեր",
@@ -3562,7 +3665,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "2–3 տարեկանից",
     "averageYield": "2 – 4 կգ մեկ թուփից",
-    "frostResistance": "Բարձր",
+    "frostResistance": -28,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Լեռնային սևահողեր",
@@ -3591,7 +3694,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "2–3 տարեկանից",
     "averageYield": "3 – 5 կգ մեկ թուփից",
-    "frostResistance": "Բարձր",
+    "frostResistance": -30,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Լեռնային սևահողեր",
@@ -3620,7 +3723,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "2–3 տարեկանից",
     "averageYield": "4 – 8 կգ մեկ թուփից",
-    "frostResistance": "Բարձր",
+    "frostResistance": 0,
     "soilType": [
       "Կուլտուր ոռոգելի հողեր",
       "Լեռնաշագանակագույն հողեր",
@@ -3650,7 +3753,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "3–4 տարեկանից",
     "averageYield": "5 – 12 կգ մեկ թուփից կամ մինչև 20 կգ ծառային ձևով",
-    "frostResistance": "Շատ բարձր",
+    "frostResistance": -40,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Լեռնային գորշ կիսանապատային հողեր"
@@ -3677,7 +3780,7 @@
     "growingSeason": "Ապրիլ – Սեպտեմբեր",
     "fertilityBegins": "2–3 տարեկանից",
     "averageYield": "3 – 6 կգ մեկ թուփից (վայրի պայմաններում՝ 1–2 կգ)",
-    "frostResistance": "Շատ բարձր",
+    "frostResistance": -35,
     "soilType": [
       "Լեռնաշագանակագույն հողեր",
       "Լեռնանտառային գորշ և դարչնագույն հողեր",
@@ -3705,8 +3808,11 @@
     "growingSeason": "Մայիս – Սեպտեմբեր",
     "fertilityBegins": "2–3 տարեկանից",
     "averageYield": "1.5 – 3 կգ մեկ թուփից (մշակովի տեսակներում՝ մինչև 5 կգ)",
-    "frostResistance": "Բարձր",
-    "soilType": ["Լեռնանտառային գորշ և դարչնագույն հողեր", "Լեռնային սևահողեր"],
+    "frostResistance": -34,
+    "soilType": [
+      "Լեռնանտառային գորշ և դարչնագույն հողեր",
+      "Լեռնային սևահողեր"
+    ],
     "susceptibilityToDiseases": "Միջին (հատկապես՝ սնկային հիվանդություններ խոնավ պայմաններում)"
   }
 ]

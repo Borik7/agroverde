@@ -76,7 +76,25 @@ export default function RotationList({ regions, families }: Props) {
   return (
     <div className="space-y-8 max-w-3xl mx-auto py-10 p-3">
       <div className="space-y-4">
-        {/* Select Region */}
+        <div className="space-y-4 max-w-3xl mx-auto">
+          <img
+            src="/pages/rotation/rotation-page-cover.jpg"
+            alt="Ռոտացիայի պատկերը"
+            className="pt-5 w-full h-auto rounded-2xl shadow-md object-cover"
+          />
+
+          <div className="mt-4 py-5 text-gray-700 text-base leading-relaxed">
+            <p>
+              <strong>🌿 Ի՞նչ է հողի ռոտացիան </strong>
+              Հողի ռոտացիան գյուղատնտեսական մեթոդ է, երբ յուրաքանչյուր տարի
+              նույն հողատարածքում տնկվում են տարբեր տեսակի մշակաբույսեր։ Սա
+              օգնում է պահպանել հողի սննդային բաղադրությունը, կանխել
+              վնասատուների ու հիվանդությունների տարածումը և բարձրացնել
+              բերքատվությունը։
+            </p>
+          </div>
+        </div>
+
         <div>
           <label className="text-sm font-semibold block mb-1">
             Քաղաք/Գյուղ

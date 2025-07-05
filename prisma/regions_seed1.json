@@ -2,212 +2,197 @@
   {
     "name": "Սպիտակ",
     "area": "Լոռու մարզ",
-    "latitude": "40.830741",
-    "longitude": "44.270416",
-    "temperature": 17,
+    "latitude": "41.1100",
+    "longitude": "44.1100",
+    "temperature": 22,
     "rainfall": 600,
     "humidity": "70%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
-    "springDayTemp": 16,
-    "summerDayTemp": 28,
-    "winterTemperature": -20
+    "winterTemperature": 16,
+    "summerDayTemp": 28
   },
   {
     "name": "Հոբարձի",
     "area": "Լոռու մարզ",
-    "latitude": "40.959921",
-    "longitude": "44.495667",
-    "temperature": 16,
+    "latitude": "41.1200",
+    "longitude": "44.1200",
+    "temperature": 22,
     "rainfall": 610,
     "humidity": "71%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 27,
-    "winterTemperature": -20
+    "summerDayTemp": 27
   },
   {
     "name": "Ղուրսալի",
     "area": "Լոռու մարզ",
-    "latitude": "40.832351",
-    "longitude": "44.335027",
-    "temperature": 17,
+    "latitude": "41.1300",
+    "longitude": "44.1300",
+    "temperature": 22,
     "rainfall": 615,
     "humidity": "71%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 29,
-    "winterTemperature": -21
+    "summerDayTemp": 29
   },
   {
     "name": "Լեռնանցք",
     "area": "Լոռու մարզ",
-    "latitude": "40.893126",
-    "longitude": "43.875543",
-    "temperature": 17,
+    "latitude": "41.1400",
+    "longitude": "44.1400",
+    "temperature": 22,
     "rainfall": 620,
     "humidity": "72%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 28,
-    "winterTemperature": -22
+    "summerDayTemp": 28
   },
   {
     "name": "Սարալանջ",
     "area": "Լոռու մարզ",
-    "latitude": "40.873121",
-    "longitude": "44.098341",
-    "temperature": 17,
+    "latitude": "41.1500",
+    "longitude": "44.1500",
+    "temperature": 23,
     "rainfall": 625,
     "humidity": "72%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 28,
-    "winterTemperature": -21
+    "summerDayTemp": 28
   },
   {
     "name": "Տաշիր",
     "area": "Լոռու մարզ",
-    "latitude": "41.119564",
-    "longitude": "44.286060",
-    "temperature": 17,
+    "latitude": "41.1600",
+    "longitude": "44.1600",
+    "temperature": 23,
     "rainfall": 630,
     "humidity": "72%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 29,
-    "winterTemperature": -23
+    "summerDayTemp": 29
   },
   {
     "name": "Սարչպետ",
     "area": "Լոռու մարզ",
-    "latitude": "41.196772",
-    "longitude": "44.381418",
-    "temperature": 15,
+    "latitude": "41.1700",
+    "longitude": "44.1700",
+    "temperature": 21,
     "rainfall": 635,
     "humidity": "73%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 27,
-    "winterTemperature": -21
+    "summerDayTemp": 27
   },
   {
     "name": "Մեծավան",
     "area": "Լոռու մարզ",
-    "latitude": "41.200278",
-    "longitude": "44.229415",
-    "temperature": 16,
+    "latitude": "41.1800",
+    "longitude": "44.1800",
+    "temperature": 22,
     "rainfall": 640,
     "humidity": "73%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -22
+    "summerDayTemp": 29
   },
   {
     "name": "Ուռուտ",
     "area": "Լոռու մարզ",
-    "latitude": "41.071657",
-    "longitude": "44.393072",
-    "temperature": 19,
+    "latitude": "41.1900",
+    "longitude": "44.1900",
+    "temperature": 24,
     "rainfall": 645,
     "humidity": "73%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 32,
-    "winterTemperature": -21
+    "summerDayTemp": 32
   },
   {
     "name": "Կաթնառատ",
     "area": "Լոռու մարզ",
-    "latitude": "41.061718",
-    "longitude": "44.195702",
-    "temperature": 16,
+    "latitude": "41.2000",
+    "longitude": "44.2000",
+    "temperature": 22,
     "rainfall": 650,
     "humidity": "74%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 27,
-    "winterTemperature": -23
+    "summerDayTemp": 27
   },
   {
     "name": "Բլագորադնոե",
     "area": "Լոռու մարզ",
-    "latitude": "41.087709",
-    "longitude": "44.180126",
-    "temperature": 19,
+    "latitude": "41.2100",
+    "longitude": "44.2100",
+    "temperature": 26,
     "rainfall": 655,
     "humidity": "74%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 32,
-    "winterTemperature": -22
+    "summerDayTemp": 32
   },
   {
     "name": "Նովոսելցվո",
     "area": "Լոռու մարզ",
     "latitude": "41.2200",
     "longitude": "44.2200",
-    "temperature": 15,
+    "temperature": 22,
     "rainfall": 660,
     "humidity": "74%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 28,
-    "winterTemperature": -25
+    "summerDayTemp": 28
   },
   {
     "name": "Ստեփանավան",
     "area": "Լոռու մարզ",
-    "latitude": "41.056098",
-    "longitude": "44.277200",
-    "temperature": 14,
-    "rainfall": 865,
+    "latitude": "41.2300",
+    "longitude": "44.2300",
+    "temperature": 23,
+    "rainfall": 665,
     "humidity": "75%",
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 31,
-    "winterTemperature": -20
+    "summerDayTemp": 31
   },
   {
     "name": "Արտամետ",
     "area": "Արմավիրի մարզ",
     "latitude": "40.2800",
     "longitude": "44.5560",
-    "temperature": 24,
+    "temperature": 23,
     "rainfall": 650,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 29,
-    "winterTemperature": -6
+    "summerDayTemp": 29
   },
   {
     "name": "Վանանդ",
     "area": "Արմավիրի մարզ",
     "latitude": "40.10318",
     "longitude": "43.82287",
-    "temperature": 23,
+    "temperature": 22,
     "rainfall": 580,
     "humidity": "50%–70%",
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Նորապատ",
@@ -220,8 +205,7 @@
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Սարդարապատ",
@@ -234,8 +218,7 @@
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Նալբանդյան",
@@ -248,8 +231,7 @@
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Ջանֆրիդա",
@@ -262,8 +244,7 @@
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Արագած",
@@ -276,8 +257,7 @@
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Գեղակերտ",
@@ -290,8 +270,7 @@
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Հայթաղ",
@@ -304,8 +283,7 @@
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Առատաշեն",
@@ -318,8 +296,7 @@
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Գրիբոյեդով",
@@ -332,8 +309,7 @@
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Մուսալեռ",
@@ -346,8 +322,7 @@
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Խորոնք",
@@ -360,8 +335,7 @@
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Փարաքար",
@@ -374,8 +348,7 @@
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Մերձավան",
@@ -388,8 +361,7 @@
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Բաղրամյան",
@@ -402,8 +374,7 @@
     "season": "Ապրիլ–Հոկտեմբեր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Ղուկասավան",
@@ -416,8 +387,7 @@
     "season": "Սառնաշունչ ձմեռ, զով ամառ",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Գետափնյա",
@@ -430,8 +400,7 @@
     "season": "Սառնաշունչ ձմեռ, զով ամառ",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Այնթափ",
@@ -444,8 +413,7 @@
     "season": "Սառնաշունչ ձմեռ, շոգ ամառ",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Նոր Խարբերդ",
@@ -458,8 +426,7 @@
     "season": "Ձմեռը մեղմ է, ամառը շոգ",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Նոր Կյուրին",
@@ -472,8 +439,7 @@
     "season": "Ձմեռը ցուրտ, ամառը տաք",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Աբովյան",
@@ -486,8 +452,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Մարմարաշեն",
@@ -500,8 +465,7 @@
     "season": "Երկար ու ցուրտ ձմեռ, կարճ ամառ",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Գետազատ",
@@ -514,8 +478,7 @@
     "season": "Ձմեռը մեղմ է, ամառը շոգ ու չոր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Արևշատ",
@@ -528,8 +491,7 @@
     "season": "Ձմեռը ցուրտ, ամառը տաք ու չոր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Դեղձուտ",
@@ -542,8 +504,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Մխչյան",
@@ -556,8 +517,7 @@
     "season": "Ձմեռը մեղմ, ամառը խոնավ",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Բյուրավան",
@@ -570,8 +530,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Կանաչուտ",
@@ -584,8 +543,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Վարդաշեն",
@@ -598,8 +556,7 @@
     "season": "Ձմեռը ցուրտ, ամառը տաք",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Քաղցրաշեն",
@@ -612,8 +569,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ ու չոր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Վեդի",
@@ -626,8 +582,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Գոռավան",
@@ -640,8 +595,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Դաշտաքար",
@@ -654,8 +608,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Այգեզարդ",
@@ -668,8 +621,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Այգեպատ",
@@ -682,8 +634,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Ոսկետափ",
@@ -696,8 +647,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ ու չոր",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Արարատ",
@@ -710,8 +660,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Արարատ գյուղ",
@@ -724,8 +673,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Կուլտուր ոռոգելի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Խաչփար",
@@ -738,8 +686,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Հայանիստ",
@@ -752,8 +699,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Դարակերտ",
@@ -766,8 +712,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Սիփանիկ",
@@ -780,8 +725,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Նորաբաց",
@@ -794,8 +738,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Զորակ",
@@ -808,8 +751,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Սիս",
@@ -822,8 +764,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Արևաքույր",
@@ -836,8 +777,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Մրգավետ",
@@ -850,8 +790,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Հովտաշեն",
@@ -864,8 +803,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Արաքսավան",
@@ -878,8 +816,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Մասիս գյուղ",
@@ -892,8 +829,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Բուրաստան",
@@ -906,8 +842,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Ազատավան",
@@ -920,8 +855,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Բերքանուշ",
@@ -934,8 +868,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Շահումյան",
@@ -948,8 +881,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Տափերական",
@@ -962,8 +894,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Փոքր Վեդի",
@@ -976,8 +907,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Լուսառատ",
@@ -990,8 +920,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Եղեգնավան",
@@ -1004,8 +933,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Այգավան",
@@ -1018,8 +946,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Նոր Կյանք",
@@ -1032,8 +959,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Նորավան",
@@ -1046,8 +972,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Աղուտ և ալկալի հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Օշական",
@@ -1060,8 +985,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Սասունիկ",
@@ -1074,8 +998,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Ոսկեվազ",
@@ -1088,8 +1011,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Ուջան",
@@ -1102,8 +1024,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Արտենի",
@@ -1116,8 +1037,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Դավթաշեն",
@@ -1130,8 +1050,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Բյուրական",
@@ -1144,8 +1063,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Արագածավան",
@@ -1158,8 +1076,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Կարբի",
@@ -1172,8 +1089,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Հանքավան",
@@ -1186,8 +1102,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Մարմարիկ",
@@ -1200,8 +1115,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Արտավազդ",
@@ -1214,8 +1128,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Մեղրաձոր",
@@ -1228,8 +1141,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Աղավնաձոր",
@@ -1242,8 +1154,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Բջնի",
@@ -1256,8 +1167,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Քաղսի",
@@ -1270,8 +1180,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Սոլակ",
@@ -1284,8 +1193,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Արզական",
@@ -1298,8 +1206,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Սարալանք",
@@ -1312,8 +1219,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Արագյուղ",
@@ -1326,8 +1232,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Ալափարս",
@@ -1340,8 +1245,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Կարենիս",
@@ -1354,8 +1258,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Նոր Հաճն",
@@ -1368,8 +1271,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Նոր Արտամետ",
@@ -1382,8 +1284,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Զորավան",
@@ -1396,8 +1297,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Եղվարդ",
@@ -1410,8 +1310,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Քասախ",
@@ -1424,8 +1323,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Մրգաշեն",
@@ -1438,8 +1336,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Կոտայք",
@@ -1452,8 +1349,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Բալահովիտ",
@@ -1466,8 +1362,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Կաթնաղբյուր",
@@ -1480,8 +1375,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Քանաքեռավան",
@@ -1494,8 +1388,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Կամարիս",
@@ -1508,8 +1401,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Արամուս",
@@ -1522,8 +1414,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Ողջաբերդ",
@@ -1536,8 +1427,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Գեղադիր",
@@ -1550,8 +1440,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Գեղաշեն",
@@ -1564,8 +1453,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Գողթն",
@@ -1578,8 +1466,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Գառնի",
@@ -1592,8 +1479,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Հացավան",
@@ -1606,8 +1492,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Ռինդ",
@@ -1620,8 +1505,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Գետափ",
@@ -1634,8 +1518,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Գլաձոր",
@@ -1648,8 +1531,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Եղեգնաձոր",
@@ -1662,8 +1544,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Մալիշկա",
@@ -1676,8 +1557,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Վայք",
@@ -1690,8 +1570,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Ազատեկ",
@@ -1704,8 +1583,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Զեդեա",
@@ -1718,8 +1596,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Զառիթափ",
@@ -1732,8 +1609,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Փոռ",
@@ -1746,8 +1622,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Սերս",
@@ -1760,8 +1635,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Ազնաբերդ",
@@ -1774,8 +1648,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Բարձրունի",
@@ -1788,8 +1661,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Մեղրի",
@@ -1802,8 +1674,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 35,
-    "winterTemperature": -9
+    "summerDayTemp": 35
   },
   {
     "name": "Նռնաձոր",
@@ -1816,8 +1687,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 20,
-    "summerDayTemp": 35,
-    "winterTemperature": -9
+    "summerDayTemp": 35
   },
   {
     "name": "Սիսիան",
@@ -1830,8 +1700,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 34,
-    "winterTemperature": -9
+    "summerDayTemp": 34
   },
   {
     "name": "Բոնակոթ",
@@ -1844,8 +1713,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 35,
-    "winterTemperature": -9
+    "summerDayTemp": 35
   },
   {
     "name": "Աշոտավան",
@@ -1858,8 +1726,7 @@
     "season": "Ձմեռը մեղմ, ամառը շոգ",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Բերդավան",
@@ -1872,8 +1739,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Կոթի",
@@ -1886,8 +1752,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Բերքաբեր",
@@ -1900,8 +1765,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Պառավաքար",
@@ -1914,8 +1778,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Տավուշ",
@@ -1928,8 +1791,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Նորաշեն",
@@ -1942,8 +1804,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնաշագանակագույն հողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Մարմաշեն",
@@ -1956,8 +1817,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 25,
-    "winterTemperature": -9
+    "summerDayTemp": 25
   },
   {
     "name": "Վահրամաբերդ",
@@ -1970,8 +1830,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Ամասիա",
@@ -1984,8 +1843,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 14,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Ախուրյան",
@@ -1998,8 +1856,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 14,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Ազատան",
@@ -2012,8 +1869,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 13,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Փանիկ",
@@ -2026,8 +1882,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 14,
-    "summerDayTemp": 26,
-    "winterTemperature": -9
+    "summerDayTemp": 26
   },
   {
     "name": "Հոռոմ",
@@ -2040,8 +1895,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 26,
-    "winterTemperature": -9
+    "summerDayTemp": 26
   },
   {
     "name": "Մարալիկ",
@@ -2054,8 +1908,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 13,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Պեմզաշեն",
@@ -2068,8 +1921,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Սառնաղբյուր",
@@ -2082,8 +1934,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Արթիկ",
@@ -2096,8 +1947,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 13,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Հառիճ",
@@ -2110,8 +1960,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 26,
-    "winterTemperature": -9
+    "summerDayTemp": 26
   },
   {
     "name": "Մեծ Մանթաշ",
@@ -2124,8 +1973,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Ծաղկաշեն",
@@ -2138,8 +1986,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Վարդենիս",
@@ -2152,8 +1999,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Քուչակ",
@@ -2166,8 +2012,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Չքնաղ",
@@ -2180,8 +2025,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Հրազդան",
@@ -2194,8 +2038,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Լեռնանիստ",
@@ -2208,8 +2051,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Չարենցավան",
@@ -2222,8 +2064,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Ֆանտան",
@@ -2236,8 +2077,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Բյուրեղավան",
@@ -2250,8 +2090,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Ակունք",
@@ -2264,8 +2103,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Ջրվեժ",
@@ -2278,8 +2116,7 @@
     "season": "Ձմեռը ցուրտ, ամառը զով",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Սարուխան",
@@ -2292,8 +2129,7 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Կարմիրգյուղ",
@@ -2306,8 +2142,7 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Ձորագյուղ",
@@ -2320,8 +2155,7 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Ծակքար",
@@ -2334,8 +2168,7 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Ներքին Գետաշեն",
@@ -2348,8 +2181,7 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Լիճք",
@@ -2362,8 +2194,7 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Աստղաձոր",
@@ -2376,8 +2207,7 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Լեռնային սևահողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Երվանդաշատ",
@@ -2390,8 +2220,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Լեռնային գորշ կիսանապատային հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Մյասնիկյան",
@@ -2404,8 +2233,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Լեռնային գորշ կիսանապատային հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Լեռնագոգ",
@@ -2418,8 +2246,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Լեռնային գորշ կիսանապատային հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Քարակերտ",
@@ -2432,8 +2259,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Լեռնային գորշ կիսանապատային հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 33,
-    "winterTemperature": -9
+    "summerDayTemp": 33
   },
   {
     "name": "Արգինա",
@@ -2446,8 +2272,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Լեռնային գորշ կիսանապատային հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Ուրցաձոր",
@@ -2460,8 +2285,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Լեռնային գորշ կիսանապատային հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Շաղափ",
@@ -2474,8 +2298,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Լեռնային գորշ կիսանապատային հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Վարդաշատ",
@@ -2488,8 +2311,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Լեռնային գորշ կիսանապատային հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Զանգակատուն",
@@ -2502,8 +2324,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Լեռնային գորշ կիսանապատային հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Վանաձոր",
@@ -2516,8 +2337,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 28,
-    "winterTemperature": -10
+    "summerDayTemp": 28
   },
   {
     "name": "Դարպաս",
@@ -2530,8 +2350,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 28,
-    "winterTemperature": -11
+    "summerDayTemp": 28
   },
   {
     "name": "Կուրթան",
@@ -2544,8 +2363,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Դսեղ",
@@ -2558,8 +2376,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Եղեգնուտ",
@@ -2572,8 +2389,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Քարինջ",
@@ -2586,8 +2402,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Ահնիձոր",
@@ -2600,8 +2415,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Թումանյան",
@@ -2614,8 +2428,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Հաղպատ",
@@ -2628,8 +2441,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Օձուն",
@@ -2642,8 +2454,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Ալավերդի",
@@ -2656,8 +2467,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Ախթալա",
@@ -2670,8 +2480,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 31,
-    "winterTemperature": -8
+    "summerDayTemp": 31
   },
   {
     "name": "Շամլուղ",
@@ -2684,8 +2493,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Դեքեդավան",
@@ -2698,8 +2506,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Բագրատաշեն",
@@ -2712,8 +2519,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Պտղավան",
@@ -2726,8 +2532,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Հաղթանակ",
@@ -2740,8 +2545,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Այրում",
@@ -2754,8 +2558,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Արճիս",
@@ -2768,8 +2571,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Ջուևան",
@@ -2782,8 +2584,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Կիրանց",
@@ -2796,8 +2597,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 14,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Սևքար",
@@ -2810,8 +2610,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Այգեհովիտ",
@@ -2824,8 +2623,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 14,
-    "summerDayTemp": 26,
-    "winterTemperature": -9
+    "summerDayTemp": 26
   },
   {
     "name": "Իջևան",
@@ -2838,8 +2636,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Գանձաքար",
@@ -2852,8 +2649,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 14,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Արծվաբերդ",
@@ -2866,8 +2662,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Վերին Կարմիրաղբյուր",
@@ -2880,8 +2675,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Լուսաձոր",
@@ -2894,8 +2688,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 14,
-    "summerDayTemp": 26,
-    "winterTemperature": -9
+    "summerDayTemp": 26
   },
   {
     "name": "Դիտավան",
@@ -2908,8 +2701,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 26,
-    "winterTemperature": -9
+    "summerDayTemp": 26
   },
   {
     "name": "Ոսկեվան",
@@ -2922,8 +2714,7 @@
     "season": "Ձմեռը սառնամանիք, ամառը մեղմ",
     "soilType": "Լեռնանտառային գորշ և դարչնագույն հողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 27,
-    "winterTemperature": -9
+    "summerDayTemp": 27
   },
   {
     "name": "Հայկավան",
@@ -2936,8 +2727,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Մարգագետնատափաստանային հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Մրգավան",
@@ -2950,8 +2740,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Մարգագետնատափաստանային հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Արմավիր գյուղ",
@@ -2964,8 +2753,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Մարգագետնատափաստանային հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Մրգաշատ",
@@ -2978,8 +2766,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Մարգագետնատափաստանային հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 30,
-    "winterTemperature": -9
+    "summerDayTemp": 30
   },
   {
     "name": "Արևիկ",
@@ -2992,8 +2779,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Մարգագետնատափաստանային հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Այգեշատ",
@@ -3006,8 +2792,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Մարգագետնատափաստանային հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Փշատավան",
@@ -3020,8 +2805,7 @@
     "season": "Ձմեռը մեղմ, ամառը տաք",
     "soilType": "Մարգագետնատափաստանային հողեր",
     "springDayTemp": 17,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Մարտունի",
@@ -3034,8 +2818,7 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Գետահովտամարգագետնային հողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Վարդենիկ",
@@ -3048,8 +2831,7 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Գետահովտամարգագետնային հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 29,
-    "winterTemperature": -9
+    "summerDayTemp": 29
   },
   {
     "name": "Արծվանիստ",
@@ -3062,8 +2844,7 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Գետահովտամարգագետնային հողեր",
     "springDayTemp": 16,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Ծովինար",
@@ -3076,8 +2857,7 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Գետահովտամարգագետնային հողեր",
     "springDayTemp": 15,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Վաղաշեն",
@@ -3090,8 +2870,7 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Գետահովտամարգագետնային հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 28,
-    "winterTemperature": -9
+    "summerDayTemp": 28
   },
   {
     "name": "Գավառ",
@@ -3104,8 +2883,7 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Գետահովտամարգագետնային հողեր",
     "springDayTemp": 18,
-    "summerDayTemp": 32,
-    "winterTemperature": -9
+    "summerDayTemp": 32
   },
   {
     "name": "Նորատուս",
@@ -3118,8 +2896,7 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Գետահովտամարգագետնային հողեր",
     "springDayTemp": 19,
-    "summerDayTemp": 31,
-    "winterTemperature": -9
+    "summerDayTemp": 31
   },
   {
     "name": "Մեծ Սեպասար",
@@ -3132,7 +2909,6 @@
     "season": "Ձմեռը սառը, ամառը մեղմ",
     "soilType": "Գետահովտամարգագետնային հողեր",
     "springDayTemp": 14,
-    "summerDayTemp": 26,
-    "winterTemperature": -9
+    "summerDayTemp": 26
   }
 ]
