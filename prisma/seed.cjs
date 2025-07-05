@@ -5,6 +5,8 @@ const path = require("path");
 const prisma = new PrismaClient();
 
 async function main() {
+  console.log("🚀 Starting seed...");
+
   const regionsSeedFilePath = path.join(__dirname, "regions_seed.json");
   const regionsSeedRaw = fs.readFileSync(regionsSeedFilePath, "utf-8");
   const regionsSeedData = JSON.parse(regionsSeedRaw);
@@ -70,6 +72,7 @@ async function main() {
         susceptibilityToDiseases: plant.susceptibilityToDiseases,
       },
     });
+
     for (const soil of plant.soilType) {
       const soilType = await prisma.soil.upsert({
         where: { name: soil },
@@ -88,11 +91,13 @@ async function main() {
 }
 
 main()
-  .then(() => {
+  .then(async () => {
     console.log("✅ Database seeded");
-    return prisma.$disconnect();
+    await prisma.$disconnect();
+    process.exit(0);
   })
-  .catch((e) => {
-    console.error(e);
-    return prisma.$disconnect();
+  .catch(async (e) => {
+    console.error("❌ Error while seeding:", e);
+    await prisma.$disconnect();
+    process.exit(1);
   });
