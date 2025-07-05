@@ -200,7 +200,7 @@ export default function Footer() {
             Եթե ունեք հարցեր կամ առաջարկներ, կարող եք գրել մեզ։
           </p>
           <Link
-            href="/contact"
+            href="/contact-us"
             className="inline-block mt-2 text-green-700 font-medium hover:underline"
           >
             Այցելել կապի էջը →
