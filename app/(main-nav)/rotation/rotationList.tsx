@@ -113,7 +113,7 @@ export default function RotationList({ regions, families }: Props) {
           </Select>
         </div>
 
-        {/* Past Years (2023) */}
+        {/* Past Years (2024) */}
         <div>
           <h3 className="font-semibold mb-2">Ի՞նչ է աճեցվել 2024-ին</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -151,7 +151,7 @@ export default function RotationList({ regions, families }: Props) {
           </div>
         </div>
 
-        {/* Past Years (2024) */}
+        {/* Past Years (2025) */}
         <div>
           <h3 className="font-semibold mb-2">Ի՞նչ է աճեցվել 2025-ին</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">

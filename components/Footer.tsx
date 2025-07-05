@@ -14,7 +14,7 @@ export default function Footer() {
   return (
     <footer className="bg-green-100 border-t border-green-300 mt-20 px-6 py-10 text-sm text-gray-700">
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
-        {/* 🔎 О проекте */}
+        {/* About Project */}
         <div>
           <h3 className="text-lg font-semibold mb-3 flex items-center gap-2">
             <Leaf className="w-5 h-5 text-green-600" />
@@ -26,14 +26,13 @@ export default function Footer() {
           </p>
         </div>
 
-        {/* 📚 Источники */}
+        {/* Sources */}
         <div>
           <h3 className="text-lg font-semibold mb-3 flex items-center gap-2">
             <BookOpenCheck className="w-5 h-5 text-green-600" />
             Օգտագործված աղբյուրներ
           </h3>
 
-          {/* Научные / официальные */}
           <div className="mb-4">
             <button
               className="w-full flex justify-between items-center text-green-700 font-medium hover:underline"
@@ -106,7 +105,6 @@ export default function Footer() {
             )}
           </div>
 
-          {/* Сельскохозяйственные базы */}
           <div className="mb-4">
             <button
               className="w-full flex justify-between items-center text-green-700 font-medium hover:underline"
@@ -134,7 +132,6 @@ export default function Footer() {
             )}
           </div>
 
-          {/* Частные компании */}
           <div>
             <button
               className="w-full flex justify-between items-center text-green-700 font-medium hover:underline"
@@ -190,7 +187,7 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* 📬 Контакты */}
+        {/* Contact-us */}
         <div>
           <h3 className="text-lg font-semibold mb-3 flex items-center gap-2">
             <Mail className="w-5 h-5 text-green-600" />

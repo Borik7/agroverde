@@ -50,7 +50,6 @@ const Navigation = () => {
           </div>
 
           <div className="flex items-center space-x-2">
-            {/* Globe icon with hover to white */}
             <Button
               variant="ghost"
               size="icon"
@@ -60,7 +59,6 @@ const Navigation = () => {
               <Globe className="h-5 w-5 text-muted-foreground group-hover:text-white transition-colors" />
             </Button>
 
-            {/* Community link with hover effect on icon */}
             <Link href="/community">
               <Button
                 variant="outline"
