@@ -7,7 +7,7 @@
     "dev": "next dev",
     "build": "npx prisma migrate deploy && npx prisma generate && npm run prisma:seed && next build",
     "start": "next start",
-    "lint": "next lint",
+    "build:dev": "next build",
     "prisma:seed": "node prisma/seed.cjs",
     "prisma:generate": "prisma generate",
     "prisma:migrate:reset": "prisma migrate reset",
