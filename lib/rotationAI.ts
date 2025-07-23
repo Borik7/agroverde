@@ -11,18 +11,18 @@ export async function fetchRotationAI({
   firstYearFamily: string;
   secondYearFamily: string;
 }): Promise<string> {
-  const region = await RegionsRepository.getById(regionId);
-  if (region === null) return "Region not found";
-  const firstYearPlant = await PlantFamilyRepository.getById(firstYearFamily);
-  if (firstYearPlant === null) return "First year plant not found";
-  const secondYearPlant = await PlantFamilyRepository.getById(secondYearFamily);
-  if (secondYearPlant === null) return "Second year plant not found";
+  // const region = await RegionsRepository.getById(regionId);
+  // if (region === null) return "Region not found";
+  // const firstYearPlant = await PlantFamilyRepository.getById(firstYearFamily);
+  // if (firstYearPlant === null) return "First year plant not found";
+  // const secondYearPlant = await PlantFamilyRepository.getById(secondYearFamily);
+  // if (secondYearPlant === null) return "Second year plant not found";
   //? add region Validation
   const prompt = makePromptForAI(
-    region?.name,
-    region?.soil.name,
-    firstYearPlant.name,
-    secondYearPlant.name
+    "Սպիտակ",
+    "Լեռնային սևահողեր",
+    "Լոլիկ",
+    "Կարտոֆիլ"
   );
   const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
   const response = await await ai.models.generateContent({
