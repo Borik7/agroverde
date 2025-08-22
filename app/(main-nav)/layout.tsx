@@ -17,19 +17,17 @@ export const metadata: Metadata = {
     "agriculture, farming, plants, crop rotation, smart farming, sustainable agriculture",
 };
 
-export default function RootLayout({
+export default function MainNavLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
   return (
-    <html lang="am">
-      <body className={inter.className}>
-        <Navigation />
-        <main className="min-h-screen">{children}</main>
-        <Toaster />
-        <Footer></Footer>
-      </body>
-    </html>
+    <>
+      <Navigation />
+      <main className="min-h-screen">{children}</main>
+      <Toaster />
+      <Footer />
+    </>
   );
 }

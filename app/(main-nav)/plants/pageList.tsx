@@ -91,9 +91,9 @@ export default function PlantsList({
         }, 100);
       }
     }
-  }, []);
+  }, [plantsData]); // include plantsData to satisfy exhaustive-deps
 
-  // === 🔡 Группировка по категории и сортировка ===
+  // Group by category and sort
   const groupedByCategory = plantsData.reduce(
     (acc: Record<string, PlantFamily[]>, family) => {
       if (!acc[family.category]) acc[family.category] = [];
@@ -111,7 +111,7 @@ export default function PlantsList({
     {}
   );
 
-  // Сортировка семей внутри категории
+  // Sort families within each category
   Object.keys(groupedByCategory).forEach((category) => {
     groupedByCategory[category].sort((a, b) =>
       a.name.localeCompare(b.name, "hy")
@@ -162,6 +162,7 @@ export default function PlantsList({
                             src={plant.imagePath}
                             alt={plant.name}
                             fill
+                            sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
                             className="object-cover group-hover:scale-105 transition-transform duration-300"
                           />
                           <div className="absolute top-4 left-4 flex gap-2">
