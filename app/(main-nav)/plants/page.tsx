@@ -35,7 +35,15 @@ type PlantFamily = {
   updatedAt: string;
 };
 
+// Temporary lighter type to match what getAll() returns
+type PlantWithoutFamily = Omit<Plant, "family">;
+
+type PlantFamilyForList = Omit<PlantFamily, "Plant"> & {
+  Plant: PlantWithoutFamily[];
+};
+
+
 export default async function PlantsPage() {
-  const plantsData = (await PlantFamilyRepository.getAll()) as PlantFamily[];
+const plantsData = (await PlantFamilyRepository.getAll()) as unknown as PlantFamily[];
   return <PlantsList plantsData={plantsData} />;
 }
